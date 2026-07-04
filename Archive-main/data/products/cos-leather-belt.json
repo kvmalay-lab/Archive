@@ -1,0 +1,53 @@
+{
+  "id": "cos-leather-belt",
+  "name": "Leather Buckle Belt",
+  "brand": "COS",
+  "category": "accessories",
+  "subcategory": "Belt",
+  "thumbnail": "assets/images/cos-leather-belt.jpg",
+  "heroImage": "assets/images/cos-leather-belt.jpg",
+  "additionalImages": [],
+  "price": "₹4,900",
+  "colours": [
+    "Black",
+    "Dark brown"
+  ],
+  "materials": [
+    "Full-grain Italian leather",
+    "Brushed metal buckle"
+  ],
+  "description": "Slim leather belt with brushed metal buckle in full-grain Italian leather. Designed to complement tailored proportions without drawing attention.",
+  "whyThisFitsMyArchive": "The belt is functional, not decorative. Slim profile works with Massimo Dutti proportions. Brushed buckle is understated. Italian leather will age and darken.",
+  "whyIChooseThis": "Over luxury belts: COS' proportions are more refined. Over cheap belts: Italian leather justifies the investment. Over statement belts: This disappears into the outfit.",
+  "whatItPairsWithInMyCollection": "Black with Massimo Dutti and formal tailoring. Dark brown with everything casual. Brushed buckle with Cartier Santos stainless steel.",
+  "whatMakesItTimeless": "Italian leather ages beautifully. Brushed buckle is permanent. Slim profile is classic.",
+  "whatProblemItSolves": "Finding a belt that holds trousers without announcing itself.",
+  "whatCouldReplaceIt": "Hermès for more prestige. Other COS belts in different leather. But this specific proportion is right.",
+  "similarPiecesIWouldProbablyLike": "Cartier Santos (same understated quality). Massimo Dutti trousers (same proportion discipline).",
+  "confidence": 87,
+  "priority": "Current",
+  "similarProducts": [],
+  "relatedProducts": [
+    "cartier-santos"
+  ],
+  "collections": [
+    "capsule-wardrobe"
+  ],
+  "purchaseLinks": {
+    "COS (international)": "https://www.cos.com/en/men/belts.html"
+  },
+  "indianRetailers": [],
+  "discontinued": false,
+  "alternativeUnder3000": "Uniqlo Leather Belt (~₹2,490 at uniqlo.com/in) — same proportions, genuine leather",
+  "alternativeUnder10000": "Massimo Dutti Leather Belt (~₹3,990 at massimodutti.com/in) — full-grain Italian leather, India availability",
+  "premiumAlternative": "Hermès Reversible Belt H Buckle (~₹60,000+ at Hermès India boutiques) — the status piece",
+  "valueScore": 8,
+  "buyRecommendation": "Consider the Massimo Dutti alternative instead — identical quality, fully available in India without import hassle. COS has no India store or India delivery. If ordering COS internationally, combine with other items to offset shipping.",
+  "importNote": "COS has no India stores and does not ship to India from cos.com. Must use a freight forwarder or buy on a trip abroad.",
+  "archiveScore": 84,
+  "designScore": 87,
+  "qualityScore": 88,
+  "versatilityScore": 90,
+  "personalFitScore": 86,
+  "categoryRank": 2
+}

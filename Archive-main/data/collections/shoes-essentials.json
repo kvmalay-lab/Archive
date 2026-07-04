@@ -1,0 +1,28 @@
+{
+  "id": "shoes-essentials",
+  "name": "Shoes: The Foundation",
+  "description": "A carefully edited selection of footwear that covers every scenario: formal to functional, minimal to technical.",
+  "introduction": "The shoe is the most visible anchor point in any outfit. These selections prioritize longevity, wearability, and the ability to disappear into the background while carrying weight.",
+  "philosophy": "Shoes should solve problems, not create them. The best shoe is the one you stop thinking about.",
+  "curatorNotes": "The rule: own one white minimal sneaker, one technical shoe, one boot. Everything else is personal preference.",
+  "heroImage": "assets/images/collections/shoes-hero.jpg",
+  "productIds": [
+    "samba-og",
+    "kozasko-penny-loafer",
+    "jordan-flight-court",
+    "nike-sabrina-3"
+  ],
+  "colorPalette": [
+    "#000000",
+    "#ffffff",
+    "#8b7355"
+  ],
+  "materials": [
+    "Italian leather",
+    "Abrasion-resistant mesh",
+    "Natural rubber"
+  ],
+  "relatedCollections": [
+    "tier-0-signatures"
+  ]
+}

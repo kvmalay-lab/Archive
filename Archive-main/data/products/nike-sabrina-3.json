@@ -1,0 +1,38 @@
+{
+  "id": "nike-sabrina-3",
+  "name": "Sabrina 3",
+  "brand": "Nike",
+  "category": "footwear",
+  "subcategory": "Basketball",
+  "thumbnail": "assets/images/nike-sabrina-3.jpg",
+  "heroImage": "assets/images/nike-sabrina-3.jpg",
+  "price": "₹13,000 – ₹15,500",
+  "colours": [
+    "White/University Red/Black",
+    "White/Black",
+    "Photon Dust"
+  ],
+  "materials": [
+    "Mesh and synthetic upper",
+    "Cushlon foam midsole",
+    "Rubber outsole"
+  ],
+  "description": "The third iteration of Sabrina Ionescu's signature basketball shoe. Enhanced cushioning, refined silhouette, proven court performance. Built for equity and accessibility in women's basketball.",
+  "whyThisFitsMyArchive": "Sabrina 3 represents performance without compromise. The shoe improves with each iteration—better fit, better feel, better engineering. The design language is confident without being loud.",
+  "confidence": 86,
+  "priority": "Current",
+  "india_availability": "Available via international retailers",
+  "collections": [],
+  "purchaseLinks": {
+    "Nike official": "https://www.nike.com/t/sabrina-3-equity-basketball-shoes-LArVJUMq/HF2881-003",
+    "Foot Locker": "https://www.footlocker.com/"
+  },
+  "discontinued": false,
+  "valueScore": 8,
+  "archiveScore": 80,
+  "designScore": 86,
+  "qualityScore": 88,
+  "versatilityScore": 82,
+  "personalFitScore": 84,
+  "categoryRank": 2
+}

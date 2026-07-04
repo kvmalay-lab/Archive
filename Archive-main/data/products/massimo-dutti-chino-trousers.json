@@ -1,0 +1,94 @@
+{
+  "id": "massimo-dutti-chino-trousers",
+  "name": "Cotton-Blend Chino Trousers",
+  "brand": "Massimo Dutti",
+  "category": "clothing",
+  "subcategory": "Trousers",
+  "thumbnail": "assets/images/massimo-dutti-chino-trousers.jpg",
+  "heroImage": "assets/images/massimo-dutti-chino-trousers.jpg",
+  "price": "₹5,990",
+  "colours": [
+    "Cream",
+    "Stone",
+    "Navy"
+  ],
+  "materials": [
+    "Cotton-blend twill"
+  ],
+  "description": "A relaxed cotton chino — the warm-weather counterpart to the wool trousers, for days that don't call for wool.",
+  "whyThisFitsMyArchive": "The wool trousers are for cooler months and formal contexts. These are for everything else — cream works with the whole neutral palette, and the cotton breathes properly in the heat.",
+  "whatItReplaces": "Doesn't replace anything yet — it fills the gap the wool trousers leave once the weather turns too warm for wool to make sense.",
+  "whyIChooseThis": "Over wool trousers in summer: cotton is the only realistic choice in Indian heat. Over slim chinos: the relaxed cut matches everything else I own.",
+  "whatItPairsWithInMyCollection": "Cream with the linen shirt or a Supima tee. Navy under the overshirt for something slightly dressier.",
+  "layeringCombinations": "Not a layering piece. Pairs with the linen shirt, Supima tee, or overshirt on top.",
+  "colourCombinations": "Cream is the priority colour — it's the one missing from the current rotation. Stone and navy are lower-priority additions once cream earns its place.",
+  "bestSeason": "Summer",
+  "bestOccasions": "Smart-casual in heat, when wool isn't realistic",
+  "costPerWearReasoning": "₹6,490 for a piece that would only get real use in the hottest months, which is why it sits below the wool trousers in priority despite solving a real seasonal gap.",
+  "whatMakesItTimeless": "A plain chino in a neutral colourway — nothing about the cut is tied to a season or trend.",
+  "whatProblemItSolves": "Formal-enough trousers for warm weather, without wearing wool when it doesn't make sense to.",
+  "whatCouldReplaceIt": "The wool trousers cover cooler months, but these are the only realistic option once the weather turns.",
+  "similarPiecesIWouldProbablyLike": "Massimo Dutti Wool Trousers (same foundation role, different season).",
+  "confidence": 84,
+  "priority": "Worth exploring",
+  "purchasePriority": "Nice to Have",
+  "worksBestWith": [
+    "massimo-dutti-linen-shirt",
+    "uniqlo-supima-tee",
+    "massimo-dutti-overshirt",
+    "kozasko-penny-loafer"
+  ],
+  "alternative": "massimo-dutti-wool-trousers",
+  "buyAfter": [
+    "massimo-dutti-wool-trousers",
+    "uniqlo-selvedge-jean"
+  ],
+  "seasonMatrix": {
+    "primary": [
+      "Summer"
+    ],
+    "secondary": [
+      "Spring"
+    ]
+  },
+  "occasionMatrix": [
+    "Weekend",
+    "Travel",
+    "Daily Wear"
+  ],
+  "similarProducts": [
+    "massimo-dutti-wool-trousers"
+  ],
+  "relatedProducts": [
+    "massimo-dutti-linen-shirt",
+    "uniqlo-supima-tee"
+  ],
+  "collections": [
+    "capsule-wardrobe"
+  ],
+  "purchaseLinks": {
+    "Massimo Dutti India (official)": "https://www.massimodutti.com/in/men/trousers-n3010"
+  },
+  "indianRetailers": [
+    {
+      "name": "Massimo Dutti India",
+      "url": "https://www.massimodutti.com/in/men/trousers-n3010"
+    },
+    {
+      "name": "Massimo Dutti stores",
+      "url": "https://www.massimodutti.com/in/stores"
+    }
+  ],
+  "discontinued": false,
+  "alternativeUnder3000": "Uniqlo Stretch Slim Fit Chino (~₹2,490 at uniqlo.com/in) — excellent cotton gabardine at lower price",
+  "alternativeUnder10000": "COS Slim Tapered Chino (~₹5,000-₹7,000 import via cos.com)",
+  "premiumAlternative": "Incotex Chino (~₹40,000 import)",
+  "valueScore": 7,
+  "buyRecommendation": "Wait for Sale — the Uniqlo chino is genuinely comparable. Buy MD only at 40% off or more (~₹3,000-₹3,600).",
+  "archiveScore": 79,
+  "designScore": 83,
+  "qualityScore": 84,
+  "versatilityScore": 81,
+  "personalFitScore": 80,
+  "categoryRank": 12
+}

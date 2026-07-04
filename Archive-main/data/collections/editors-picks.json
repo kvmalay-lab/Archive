@@ -1,0 +1,38 @@
+{
+  "id": "editors-picks",
+  "name": "Editor's Picks",
+  "description": "The ten objects that define this archive. If everything else disappeared, these would rebuild it.",
+  "introduction": "Every product in this archive earned its place, but these ten are the reason the archive exists. They were chosen by a single test: if I lost everything tomorrow, what would I rebuy first, at full price, without hesitation?\n\nThe list cuts across every category deliberately. A watch, a shoe, a tee, a fragrance — the point is not that these are the most expensive or the most rare, but that each one is the definitive answer to its own question. The Santos is the watch. The Samba is the shoe. The Supima tee is the baseline everything else is measured against.\n\nRanked by Archive Score — a composite of design, quality, versatility, and how completely each piece fits the way I actually live.",
+  "philosophy": "Ten objects, one test: would I rebuy it tomorrow at full price? Everything here passes. Nothing else does.",
+  "curatorNotes": "This list is capped at ten permanently. Adding an eleventh means removing a tenth.",
+  "productIds": [
+    "cartier-santos",
+    "samba-og",
+    "uniqlo-supima-tee",
+    "creed-aventus",
+    "uniqlo-selvedge-jean",
+    "jaeger-lecoultre-reverso",
+    "massimo-dutti-wool-trousers",
+    "massimo-dutti-oxford",
+    "contax-t2-titanium",
+    "massimo-dutti-wool-coat"
+  ],
+  "colorPalette": [
+    "White",
+    "Black",
+    "Navy",
+    "Steel",
+    "Indigo"
+  ],
+  "materials": [
+    "Supima cotton",
+    "Selvedge denim",
+    "Stainless steel",
+    "Leather",
+    "Wool"
+  ],
+  "relatedCollections": [
+    "capsule-wardrobe",
+    "tier-0-signatures"
+  ]
+}

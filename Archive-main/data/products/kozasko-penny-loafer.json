@@ -1,0 +1,43 @@
+{
+  "id": "kozasko-penny-loafer",
+  "name": "Goodyear Welted Penny Loafer",
+  "brand": "KOZASKO",
+  "category": "footwear",
+  "subcategory": "Loafer",
+  "thumbnail": "assets/images/kozasko-penny-loafer.jpg",
+  "heroImage": "assets/images/kozasko-penny-loafer.jpg",
+  "price": "₹35,000 – ₹48,000",
+  "colours": [
+    "Black",
+    "Brown",
+    "Burgundy"
+  ],
+  "materials": [
+    "Full-grain leather",
+    "Goodyear welted construction",
+    "Leather sole",
+    "Handmade in India"
+  ],
+  "description": "Handcrafted Goodyear welted penny loafer. Traditional construction means infinite resoling. Premium leather ages gracefully. Made in India.",
+  "whyThisFitsMyArchive": "The penny loafer is the convergence of formality and comfort. KOZASKO's construction quality rivals Italian makers at half the cost. Goodyear welting means these shoes can be resoled infinitely—genuine investment pieces.",
+  "confidence": 88,
+  "priority": "Current",
+  "india_availability": "Directly available",
+  "collections": [
+    "capsule-wardrobe",
+    "black-essentials",
+    "editors-picks"
+  ],
+  "purchaseLinks": {
+    "KOZASKO official": "https://kozasko.com/",
+    "KOZASKO Shopify": "https://kozasko.com/products/goodyear-welted-black-penny-loafer"
+  },
+  "discontinued": false,
+  "valueScore": 9,
+  "archiveScore": 92,
+  "designScore": 90,
+  "qualityScore": 94,
+  "versatilityScore": 88,
+  "personalFitScore": 89,
+  "categoryRank": 1
+}

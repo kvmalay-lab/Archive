@@ -1,0 +1,100 @@
+{
+  "id": "massimo-dutti-relaxed-shirt",
+  "name": "Cotton Poplin Relaxed Shirt",
+  "brand": "Massimo Dutti",
+  "category": "clothing",
+  "subcategory": "Shirt",
+  "thumbnail": "assets/images/massimo-dutti-relaxed-shirt.jpg",
+  "heroImage": "assets/images/massimo-dutti-relaxed-shirt.jpg",
+  "price": "₹5,490",
+  "colours": [
+    "White",
+    "Black",
+    "Stone",
+    "Navy"
+  ],
+  "materials": [
+    "100% cotton poplin",
+    "Relaxed fit"
+  ],
+  "description": "A relaxed poplin shirt with clean lines and no unnecessary detail — a formal option that doesn't feel stiff.",
+  "whyThisFitsMyArchive": "White is my go-to formal alternative to a full suit. The relaxed cut means it works buttoned up for something serious or open over a tee for something casual.",
+  "whatItReplaces": "Replaces the pleated formal shirt I used to think I needed for 'serious' occasions. This does the same job in something I'd actually reach for on a random Tuesday, not just for a gallery opening.",
+  "whyIChooseThis": "Over slim-fit dress shirts: the relaxed cut is more forgiving and more comfortable through a full day. Over statement fabrics: plain poplin goes with everything I own.",
+  "whatItPairsWithInMyCollection": "White with the wool trousers for anything formal. Layered under the overshirt or bomber for daily wear.",
+  "layeringCombinations": "Alone, buttoned, for formal. Open over a tee for casual. Under the overshirt on cooler days.",
+  "colourCombinations": "White is the formal default. Black and stone cover casual. Navy gets the least wear but earns its place for variety.",
+  "bestSeason": "Year-round",
+  "bestOccasions": "Formal-adjacent occasions that don't require a full suit",
+  "costPerWearReasoning": "₹5,990, and it's the shirt I reach for whenever something needs to look considered without being stiff — closer to weekly wear than occasional.",
+  "whatMakesItTimeless": "Plain poplin, clean construction, a fit that isn't chasing a trend cycle.",
+  "whatProblemItSolves": "A shirt that moves between formal and casual without needing a separate wardrobe for each.",
+  "whatCouldReplaceIt": "A dress shirt if I need something stiffer, but this covers most situations already.",
+  "similarPiecesIWouldProbablyLike": "Massimo Dutti overshirt (same everyday reliability).",
+  "confidence": 85,
+  "priority": "Current",
+  "purchasePriority": "High Priority",
+  "worksBestWith": [
+    "massimo-dutti-wool-trousers",
+    "uniqlo-selvedge-jean",
+    "massimo-dutti-overshirt",
+    "jaeger-lecoultre-reverso"
+  ],
+  "alternative": "massimo-dutti-oxford",
+  "buyAfter": [
+    "massimo-dutti-oxford"
+  ],
+  "layeringOver": "a plain tee if left open",
+  "layeringUnder": "the overshirt or bomber on cooler days",
+  "seasonMatrix": {
+    "primary": [
+      "Spring",
+      "Autumn"
+    ],
+    "secondary": [
+      "Summer",
+      "Winter"
+    ]
+  },
+  "occasionMatrix": [
+    "Dinner",
+    "Date Night",
+    "Office"
+  ],
+  "similarProducts": [
+    "massimo-dutti-overshirt"
+  ],
+  "relatedProducts": [
+    "massimo-dutti-wool-coat"
+  ],
+  "collections": [
+    "capsule-wardrobe",
+    "black-essentials",
+    "quiet-luxury-essentials"
+  ],
+  "purchaseLinks": {
+    "Massimo Dutti India (official)": "https://www.massimodutti.com/in/men/shirts-n1356"
+  },
+  "indianRetailers": [
+    {
+      "name": "Massimo Dutti India",
+      "url": "https://www.massimodutti.com/in/men/shirts-n1356"
+    },
+    {
+      "name": "Massimo Dutti stores",
+      "url": "https://www.massimodutti.com/in/stores"
+    }
+  ],
+  "discontinued": false,
+  "alternativeUnder3000": "Uniqlo Extra Fine Cotton Broadcloth Shirt (~₹1,990 at uniqlo.com/in)",
+  "alternativeUnder10000": "COS Poplin Shirt (~₹5,000-₹7,000 import via cos.com)",
+  "premiumAlternative": "Brioni Cotton Shirt (~₹1,00,000+ import)",
+  "valueScore": 8,
+  "buyRecommendation": "Wait for Sale — MD poplin drops to ~₹2,800-₹3,500 at clearance, which is the right price.",
+  "archiveScore": 84,
+  "designScore": 90,
+  "qualityScore": 86,
+  "versatilityScore": 82,
+  "personalFitScore": 86,
+  "categoryRank": 8
+}

@@ -1,0 +1,167 @@
+[
+  {
+    "id": "the-daily-default",
+    "name": "The Daily Default",
+    "top": "uniqlo-supima-tee",
+    "bottom": "uniqlo-selvedge-jean",
+    "shoes": "samba-og",
+    "watch": "cartier-santos",
+    "fragrance": "creed-aventus",
+    "outerwear": null,
+    "reason": "The four-piece rotation that needs zero thought — tee, jeans, Samba, and the Santos, worn more than anything else I own."
+  },
+  {
+    "id": "office-standard",
+    "name": "Office Standard",
+    "top": "massimo-dutti-oxford",
+    "bottom": "massimo-dutti-wool-trousers",
+    "shoes": "kozasko-penny-loafer",
+    "watch": "cartier-santos",
+    "fragrance": "creed-aventus",
+    "outerwear": null,
+    "reason": "Oxford and wool trousers read as considered without a blazer; the penny loafer keeps the formality without stiffness."
+  },
+  {
+    "id": "dinner-no-effort",
+    "name": "Dinner, No Effort",
+    "top": "massimo-dutti-relaxed-shirt",
+    "bottom": "massimo-dutti-wool-trousers",
+    "shoes": "kozasko-penny-loafer",
+    "watch": "jaeger-lecoultre-reverso",
+    "fragrance": "le-labo-santal",
+    "outerwear": "massimo-dutti-overshirt",
+    "reason": "White poplin and black trousers with the Reverso and Santal 33 — the outfit for a dinner reservation, not a boardroom."
+  },
+  {
+    "id": "cold-commute",
+    "name": "Cold Commute",
+    "top": "uniqlo-merino-turtleneck",
+    "bottom": "massimo-dutti-wool-trousers",
+    "shoes": "kozasko-penny-loafer",
+    "watch": "rolex-datejust-36",
+    "fragrance": "creed-aventus",
+    "outerwear": "massimo-dutti-wool-coat",
+    "reason": "The turtleneck under the coat is the only combination warm enough for a genuinely cold morning without adding bulk."
+  },
+  {
+    "id": "weekend-errand",
+    "name": "Weekend Errand",
+    "top": "uniqlo-supima-tee",
+    "bottom": "uniqlo-selvedge-jean",
+    "shoes": "jordan-flight-court",
+    "watch": "tudor-black-bay-36",
+    "fragrance": "hermes-terre-hermes-eau-givree",
+    "outerwear": "massimo-dutti-overshirt",
+    "reason": "Court runners and a field watch — this is the outfit that says I'm not trying, deliberately."
+  },
+  {
+    "id": "friction-piece",
+    "name": "Friction Piece",
+    "top": "massimo-dutti-relaxed-shirt",
+    "bottom": "massimo-dutti-wool-trousers",
+    "shoes": "jordan-flight-court",
+    "watch": "tudor-black-bay-36",
+    "fragrance": "hermes-terre-hermes-eau-givree",
+    "outerwear": null,
+    "reason": "Formal tailoring grounded by court runners — the contrast is the entire point, not an accident."
+  },
+  {
+    "id": "travel-day",
+    "name": "Travel Day",
+    "top": "uniqlo-supima-tee",
+    "bottom": "massimo-dutti-chino-trousers",
+    "shoes": "samba-og",
+    "watch": "tudor-black-bay-36",
+    "fragrance": "hermes-terre-hermes-eau-givree",
+    "outerwear": "massimo-dutti-jacket",
+    "reason": "Nothing here needs ironing after eight hours in a seat, and the Samba is the one shoe that reads correct at both ends of the journey."
+  },
+  {
+    "id": "summer-formal",
+    "name": "Summer Formal",
+    "top": "massimo-dutti-linen-shirt",
+    "bottom": "massimo-dutti-chino-trousers",
+    "shoes": "kozasko-penny-loafer",
+    "watch": "cartier-santos",
+    "fragrance": "louis-vuitton-imagination",
+    "outerwear": null,
+    "reason": "Linen and cream chino are the only combination that stays presentable through actual heat."
+  },
+  {
+    "id": "date-night",
+    "name": "Date Night",
+    "top": "massimo-dutti-relaxed-shirt",
+    "bottom": "uniqlo-selvedge-jean",
+    "shoes": "kozasko-penny-loafer",
+    "watch": "tudor-black-bay-36",
+    "fragrance": "celine-monochrome",
+    "outerwear": null,
+    "reason": "White shirt and dark denim reads considered without looking like I dressed for an interview."
+  },
+  {
+    "id": "university-uniform",
+    "name": "University Uniform",
+    "top": "uniqlo-supima-tee",
+    "bottom": "uniqlo-selvedge-jean",
+    "shoes": "samba-og",
+    "watch": "omega-seamaster",
+    "fragrance": "creed-aventus",
+    "outerwear": "massimo-dutti-overshirt",
+    "reason": "The version of the daily default built for a full day on campus — nothing here needs adjusting between a lecture and the walk after."
+  },
+  {
+    "id": "airport",
+    "name": "Airport",
+    "top": "uniqlo-merino-turtleneck",
+    "bottom": "massimo-dutti-wool-trousers",
+    "shoes": "samba-og",
+    "watch": "omega-seamaster",
+    "fragrance": "hermes-terre-hermes-eau-givree",
+    "outerwear": "massimo-dutti-jacket",
+    "reason": "A soft waistband, layers that come off in one motion, and the Samba — nothing here fights a security line or a long flight."
+  },
+  {
+    "id": "rain-grounded",
+    "name": "Rain Grounded",
+    "top": "uniqlo-merino-turtleneck",
+    "bottom": "uniqlo-selvedge-jean",
+    "shoes": "jordan-flight-court",
+    "watch": "tudor-black-bay-36",
+    "fragrance": "hermes-terre-hermes-eau-givree",
+    "outerwear": "massimo-dutti-jacket",
+    "reason": "The one outfit built to survive a sudden downpour without changing anything else about how I dress."
+  },
+  {
+    "id": "smart-weekend",
+    "name": "Smart Weekend",
+    "top": "massimo-dutti-merino-crewneck",
+    "bottom": "uniqlo-selvedge-jean",
+    "shoes": "samba-og",
+    "watch": "cartier-santos",
+    "fragrance": "le-labo-santal",
+    "outerwear": "zara-harrington-jacket",
+    "reason": "Cream knit and dark denim under the Harrington — dressed up enough for a weekend lunch without trying."
+  },
+  {
+    "id": "half-zip-evening",
+    "name": "Half-Zip Evening",
+    "top": "massimo-dutti-half-zip",
+    "bottom": "massimo-dutti-wool-trousers",
+    "shoes": "kozasko-penny-loafer",
+    "watch": "jaeger-lecoultre-reverso",
+    "fragrance": "louis-vuitton-imagination",
+    "outerwear": null,
+    "reason": "The half-zip gives just enough structure for an evening that isn't formal but shouldn't look careless either."
+  },
+  {
+    "id": "cold-weekend-layer",
+    "name": "Cold Weekend Layer",
+    "top": "uniqlo-merino-turtleneck",
+    "bottom": "uniqlo-selvedge-jean",
+    "shoes": "kozasko-penny-loafer",
+    "watch": "omega-seamaster",
+    "fragrance": "creed-aventus",
+    "outerwear": "massimo-dutti-wool-coat",
+    "reason": "Turtleneck, denim, and the coat over everything — the outfit for a cold weekend that still needs to look considered."
+  }
+]

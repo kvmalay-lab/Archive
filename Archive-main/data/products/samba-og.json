@@ -1,0 +1,75 @@
+{
+  "id": "samba-og",
+  "name": "Samba OG",
+  "brand": "Adidas",
+  "category": "footwear",
+  "subcategory": "Lifestyle — terrace",
+  "thumbnail": "assets/images/samba-og.jpg",
+  "heroImage": "assets/images/samba-og.jpg",
+  "additionalImages": [],
+  "price": "₹10,999 – ₹12,500",
+  "colours": [
+    "Black/White",
+    "White/Black",
+    "Beige",
+    "Core Red"
+  ],
+  "materials": [
+    "Leather upper",
+    "Suede toe overlay",
+    "Gum rubber sole"
+  ],
+  "description": "The original. 1950 football training shoe adopted by terrace culture. Leather upper with suede toe overlay. Gum sole that darkens with age. Proportions that have never required revision.",
+  "whyThisFitsMyArchive": "The Samba is the invisible shoe. It disappears into context. Wear it with tailored trousers and it looks intentional. Wear it with casual denim and it looks effortless. The proportions are so correct that it works everywhere—boardroom to football pitch. This is the shoe that proves heritage doesn't require loudness.",
+  "whyIChooseThis": "Over Common Projects Achilles: Samba has personality and cost ₹1/10th. Over Air Force 1: Samba's proportions are tighter, more refined. Over Converse: Samba's materials are better, the sole is better. It's the bridge between formal and casual that actually works.",
+  "whatItPairsWithInMyCollection": "Everything. Literally everything. Massimo Dutti wool trousers, Uniqlo denim, black formal trousers, shorts. Nothing demands accommodation. The shoe adapts to the context.",
+  "whatMakesItTimeless": "The design is 74 years old and proportionally unchanged because it is geometrically correct. Trends come and go. The Samba simply exists, perfect in its simplicity.",
+  "whatProblemItSolves": "The need for one shoe that works everywhere. This is it.",
+  "confidence": 97,
+  "priority": "Current",
+  "india_availability": "Officially available",
+  "indian_retailers": [
+    "Adidas India",
+    "Myntra",
+    "AJIO Luxe"
+  ],
+  "similarProducts": [],
+  "relatedProducts": [],
+  "collections": [
+    "tier-0-signatures",
+    "capsule-wardrobe",
+    "black-essentials",
+    "editors-picks"
+  ],
+  "purchaseLinks": {
+    "Adidas India": "https://www.adidas.co.in/samba",
+    "Myntra": "https://www.myntra.com/adidas-samba-og-sneakers",
+    "AJIO Luxe": "https://luxe.ajio.com/adidas-originals-samba-og/"
+  },
+  "indianRetailers": [
+    {
+      "name": "Adidas India",
+      "url": "https://www.adidas.co.in/samba"
+    },
+    {
+      "name": "Myntra",
+      "url": "https://www.myntra.com/adidas-samba-og-sneakers"
+    },
+    {
+      "name": "AJIO Luxe",
+      "url": "https://luxe.ajio.com/adidas-originals-samba-og/"
+    }
+  ],
+  "discontinued": false,
+  "alternativeUnder3000": "Not realistic for leather sneaker with gum sole",
+  "alternativeUnder10000": "Adidas Stan Smith (~₹8,999) — cleaner alternative, less character",
+  "premiumAlternative": "Common Projects Achilles (~₹40,000+) — minimal benchmark",
+  "valueScore": 9,
+  "buyRecommendation": "Buy Now — Samba rarely sees deep discounts. AJIO occasionally has flash sales. Stock sells out in popular sizes/colorways.",
+  "archiveScore": 97,
+  "designScore": 96,
+  "qualityScore": 89,
+  "versatilityScore": 99,
+  "personalFitScore": 97,
+  "categoryRank": 1
+}

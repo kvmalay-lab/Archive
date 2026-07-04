@@ -1,0 +1,91 @@
+{
+  "id": "massimo-dutti-half-zip",
+  "name": "Merino Wool Half-Zip Sweater",
+  "brand": "Massimo Dutti",
+  "category": "clothing",
+  "subcategory": "Knitwear",
+  "thumbnail": "assets/images/massimo-dutti-half-zip.jpg",
+  "heroImage": "assets/images/massimo-dutti-half-zip.jpg",
+  "price": "₹6,990",
+  "colours": [
+    "Navy",
+    "Charcoal"
+  ],
+  "materials": [
+    "100% Merino wool"
+  ],
+  "description": "A half-zip Merino sweater that sits between a crew neck and a shirt — enough structure to wear alone, without needing anything underneath.",
+  "whyThisFitsMyArchive": "This is the piece I reach for when a plain crewneck feels too casual but a shirt feels like too much effort. The zip gives it just enough structure to read as considered.",
+  "whatItReplaces": "Doesn't replace the crew neck — it sits one register above it for days that need slightly more structure without going as far as a full shirt-and-jacket outfit.",
+  "whyIChooseThis": "Over a crew neck: the half-zip works alone for slightly dressier settings. Over a full quarter-zip jacket: this stays a layering piece, not outerwear.",
+  "whatItPairsWithInMyCollection": "Worn alone with the wool trousers. Layered over the Supima tee or linen shirt when it's cooler.",
+  "layeringCombinations": "Alone with the wool trousers. Over the Supima tee or linen shirt when it's cooler.",
+  "colourCombinations": "Navy and charcoal, matching the rest of the cold-weather knitwear so nothing needs separate styling logic.",
+  "bestSeason": "Autumn and winter",
+  "bestOccasions": "Smart-casual, the middle ground between a t-shirt and a full shirt-and-jacket outfit",
+  "costPerWearReasoning": "₹8,490 for a piece I don't own yet — the honest case for buying it is thin until the crew neck genuinely stops covering the gap it's meant to fill.",
+  "whatMakesItTimeless": "Merino ages well and the half-zip silhouette hasn't meaningfully changed in decades.",
+  "whatProblemItSolves": "A smart-casual middle ground between a t-shirt and a full shirt-and-jacket outfit.",
+  "whatCouldReplaceIt": "The merino crewneck covers most of the same ground, but the half-zip earns its place on days that need slightly more structure.",
+  "similarPiecesIWouldProbablyLike": "Massimo Dutti Merino Crew Neck (same fabric philosophy).",
+  "confidence": 82,
+  "priority": "Worth exploring",
+  "purchasePriority": "Future Upgrade",
+  "worksBestWith": [
+    "massimo-dutti-wool-trousers",
+    "uniqlo-supima-tee",
+    "massimo-dutti-linen-shirt"
+  ],
+  "alternative": "massimo-dutti-merino-crewneck",
+  "buyAfter": [
+    "massimo-dutti-merino-crewneck"
+  ],
+  "layeringOver": "the Supima tee or linen shirt",
+  "seasonMatrix": {
+    "primary": [
+      "Autumn",
+      "Winter"
+    ],
+    "secondary": []
+  },
+  "occasionMatrix": [
+    "Dinner",
+    "Daily Wear",
+    "Office"
+  ],
+  "similarProducts": [
+    "massimo-dutti-merino-crewneck"
+  ],
+  "relatedProducts": [
+    "massimo-dutti-wool-trousers"
+  ],
+  "collections": [
+    "capsule-wardrobe",
+    "quiet-luxury-essentials"
+  ],
+  "purchaseLinks": {
+    "Massimo Dutti India (official)": "https://www.massimodutti.com/in/men/knitwear-n3012"
+  },
+  "indianRetailers": [
+    {
+      "name": "Massimo Dutti India",
+      "url": "https://www.massimodutti.com/in/men/knitwear-n3012"
+    },
+    {
+      "name": "Massimo Dutti stores",
+      "url": "https://www.massimodutti.com/in/stores"
+    }
+  ],
+  "discontinued": false,
+  "alternativeUnder3000": "Uniqlo Extra Fine Merino Half-Zip (~₹2,990 at uniqlo.com/in) — same result at half the cost",
+  "alternativeUnder10000": "COS Merino Half-Zip (~₹6,000-₹8,000 import via cos.com)",
+  "premiumAlternative": "Ralph Lauren Purple Label Half-Zip Cashmere (~₹60,000 import)",
+  "valueScore": 7,
+  "buyRecommendation": "Wait for Sale — identical logic to the crewneck. Buy Uniqlo first; upgrade to MD half-zip only at clearance.",
+  "archiveScore": 77,
+  "designScore": 84,
+  "qualityScore": 85,
+  "versatilityScore": 74,
+  "personalFitScore": 78,
+  "categoryRank": 13
+}

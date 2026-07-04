@@ -1,0 +1,76 @@
+{
+  "id": "creed-aventus",
+  "name": "Aventus",
+  "brand": "Creed",
+  "category": "fragrance",
+  "subcategory": "Eau de Parfum",
+  "thumbnail": "assets/images/creed-aventus.jpg",
+  "heroImage": "assets/images/creed-aventus.jpg",
+  "price": "₹28,500 – ₹39,999",
+  "price_usd": "$260–310",
+  "colours": [
+    "Clear"
+  ],
+  "materials": [
+    "Eau de Parfum",
+    "120ml"
+  ],
+  "description": "The definitive signature fragrance. Pineapple, blackcurrant leaf, birch, and ambroxan create a silhouette that ages like a fine wine.",
+  "patina": "The atomizer wears to a matte finish with age. The cardboard box has visible creases. I refuse to keep it pristine.",
+  "whyThisFitsMyArchive": "It is the fragrance equivalent of the Massimo Dutti trouser—proportionally correct, contextually appropriate, and utterly timeless. Works equally in a corporate meeting or a midnight conversation.",
+  "whyIChooseThis": "Over Bleu de Chanel or Sauvage: Aventus stands apart. It doesn't try to be cheap or aggressive. It smells wealthy without announcing it.",
+  "whatItPairsWithInMyCollection": "Applied before putting on the Massimo Dutti coat. Worn year-round. The scent develops and shifts with temperature.",
+  "whatMakesItTimeless": "Creed has been making this formula since 1760. The composition is classical, not trendy.",
+  "confidence": 100,
+  "priority": "Current",
+  "india_availability": "Officially available",
+  "indian_retailers": [
+    "Nykaa",
+    "Scentstore",
+    "Fragrantica India"
+  ],
+  "import_required": false,
+  "collections": [
+    "tier-0-signatures",
+    "editors-picks"
+  ],
+  "purchaseLinks": {
+    "Tata CLiQ Luxury": "https://luxury.tatacliq.com/creed-millesime-aventus-eau-de-parfum-for-men--100-ml/p-mp000000018753048",
+    "Scentira": "https://scentira.in/products/creed-aventus-eau-de-parfum",
+    "Amazon India": "https://www.amazon.in/Creed-Aventus-Perfume-Men-100ml/dp/B06ZZGNMYD"
+  },
+  "indianRetailers": [
+    {
+      "name": "Tata CLiQ Luxury",
+      "url": "https://luxury.tatacliq.com/creed-millesime-aventus-eau-de-parfum-for-men--100-ml/p-mp000000018753048"
+    },
+    {
+      "name": "Scentira",
+      "url": "https://scentira.in/products/creed-aventus-eau-de-parfum"
+    },
+    {
+      "name": "Splash Fragrance",
+      "url": "https://splashfragrance.in/creed-aventus-120ml-perfume-edp-online-india/"
+    },
+    {
+      "name": "Amazon India",
+      "url": "https://www.amazon.in/Creed-Aventus-Perfume-Men-100ml/dp/B06ZZGNMYD"
+    },
+    {
+      "name": "Flipkart",
+      "url": "https://www.flipkart.com/creed-aventus-eau-de-parfum-men-100-ml/p/itmdc5052afa4d4e"
+    }
+  ],
+  "discontinued": false,
+  "alternativeUnder3000": "Armaf Club De Nuit Intense Man (~₹1,200 on Amazon India) — widely acknowledged Aventus dupe",
+  "alternativeUnder10000": "Dior Sauvage EDP (~₹9,500 on Nykaa) — different DNA but same projection authority",
+  "premiumAlternative": "Roja Parfums Elysium Pour Homme (~₹45,000+ import) — similar citrus/ambergris structure",
+  "valueScore": 8,
+  "buyRecommendation": "Buy Now — Tata CLiQ Luxury and Scentira are the most reliable authentic sources. Batch lots from Flipkart/Amazon can be grey market; verify seller carefully. No seasonal sales on Creed.",
+  "archiveScore": 97,
+  "designScore": 90,
+  "qualityScore": 95,
+  "versatilityScore": 93,
+  "personalFitScore": 100,
+  "categoryRank": 1
+}

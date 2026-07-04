@@ -1,0 +1,93 @@
+{
+  "id": "massimo-dutti-linen-shirt",
+  "name": "100% Linen Shirt",
+  "brand": "Massimo Dutti",
+  "category": "clothing",
+  "subcategory": "Shirt",
+  "thumbnail": "assets/images/massimo-dutti-linen-shirt.jpg",
+  "heroImage": "assets/images/massimo-dutti-linen-shirt.jpg",
+  "price": "₹5,490",
+  "colours": [
+    "White",
+    "Stone",
+    "Sky blue"
+  ],
+  "materials": [
+    "100% linen"
+  ],
+  "description": "A plain linen shirt that actually earns its place in an Indian climate — breathable, quick-drying, and better for the visible creasing rather than fighting it.",
+  "whyThisFitsMyArchive": "Half the year here is too hot for cotton poplin to feel comfortable by noon. Linen is the piece that actually gets worn on those days, not just owned. The wrinkles are part of the fabric, not a flaw to iron out.",
+  "whatItReplaces": "Replaces the assumption that cotton is the only 'proper' shirt fabric. Half the year here, cotton just doesn't work as well as linen does, and I ignored that for too long.",
+  "whyIChooseThis": "Over cotton poplin in summer: linen breathes and dries faster. Over linen-cotton blends: pure linen creases properly instead of looking limp.",
+  "whatItPairsWithInMyCollection": "Open over a Supima tee with the selvedge jeans. Tucked into the wool trousers for something dressier in warm weather.",
+  "layeringCombinations": "Not really a layering piece — it's built to be worn alone or open over a tee in heat.",
+  "colourCombinations": "White and stone are the two I reach for most. Sky blue gets worn slightly less but wears well against denim.",
+  "bestSeason": "Peak summer — this is the one piece built specifically for heat",
+  "bestOccasions": "Anything outdoors, anything hot, casual to smart-casual",
+  "costPerWearReasoning": "₹6,990, but it covers the months everything else in the wardrobe is slightly too heavy for — the cost per wear during actual summer is very low.",
+  "whatMakesItTimeless": "Plain linen in a neutral colourway. Nothing about it is seasonal beyond the fabric itself, and linen shirts don't go out of style.",
+  "whatProblemItSolves": "A shirt that's actually comfortable to wear outdoors in Indian heat, not just photographed well.",
+  "whatCouldReplaceIt": "A linen-cotton blend if I wanted less creasing, but the crease is the point.",
+  "similarPiecesIWouldProbablyLike": "Massimo Dutti overshirt (same everyday reliability).",
+  "confidence": 90,
+  "priority": "Current",
+  "purchasePriority": "High Priority",
+  "worksBestWith": [
+    "massimo-dutti-chino-trousers",
+    "uniqlo-selvedge-jean",
+    "uniqlo-supima-tee"
+  ],
+  "alternative": "massimo-dutti-relaxed-shirt",
+  "buyAfter": [
+    "massimo-dutti-oxford",
+    "massimo-dutti-relaxed-shirt"
+  ],
+  "layeringOver": "a tee if left fully open",
+  "seasonMatrix": {
+    "primary": [
+      "Summer"
+    ],
+    "secondary": [
+      "Spring"
+    ]
+  },
+  "occasionMatrix": [
+    "Travel",
+    "Weekend",
+    "Daily Wear"
+  ],
+  "similarProducts": [
+    "massimo-dutti-relaxed-shirt"
+  ],
+  "relatedProducts": [
+    "massimo-dutti-wool-trousers"
+  ],
+  "collections": [
+    "capsule-wardrobe"
+  ],
+  "purchaseLinks": {
+    "Massimo Dutti India (official)": "https://www.massimodutti.com/in/men/shirts-n1356"
+  },
+  "indianRetailers": [
+    {
+      "name": "Massimo Dutti India",
+      "url": "https://www.massimodutti.com/in/men/shirts-n1356"
+    },
+    {
+      "name": "Massimo Dutti stores",
+      "url": "https://www.massimodutti.com/in/stores"
+    }
+  ],
+  "discontinued": false,
+  "alternativeUnder3000": "Uniqlo Linen Blend Shirt (~₹2,490 at uniqlo.com/in) or H&M Linen Shirt (~₹1,499 at hm.com/in)",
+  "alternativeUnder10000": "COS Linen Shirt (~₹5,000-₹7,000 import via cos.com) — cleaner drape",
+  "premiumAlternative": "Loro Piana Linen Shirt (~₹80,000 import)",
+  "valueScore": 8,
+  "buyRecommendation": "Wait for Sale — linen is a seasonal SKU; huge clearance discounts in August-September. Buy at 40-50% off.",
+  "archiveScore": 82,
+  "designScore": 86,
+  "qualityScore": 85,
+  "versatilityScore": 75,
+  "personalFitScore": 84,
+  "categoryRank": 9
+}

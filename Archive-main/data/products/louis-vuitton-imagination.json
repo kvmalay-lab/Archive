@@ -1,0 +1,38 @@
+{
+  "id": "louis-vuitton-imagination",
+  "name": "Imagination",
+  "brand": "Louis Vuitton",
+  "category": "fragrance",
+  "subcategory": "Eau de Parfum",
+  "thumbnail": "assets/images/louis-vuitton-imagination.jpg",
+  "heroImage": "assets/images/louis-vuitton-imagination.jpg",
+  "price": "₹18,000 – ₹24,000",
+  "price_usd": "$190–250",
+  "colours": [
+    "Clear"
+  ],
+  "materials": [
+    "Eau de Parfum",
+    "100ml"
+  ],
+  "description": "Citrus aromatic created by Jacques Cavallier Belletrud. Citron and bergamot top notes with smoldering black tea and guaiac wood. Bold, contemporary, instantly distinctive.",
+  "whyThisFitsMyArchive": "Louis Vuitton Imagination balances luxury with restraint. The composition is ambitious without being aggressive—think 'wealthy without announcing it.' Black tea and guaiac wood give unexpected depth.",
+  "confidence": 87,
+  "priority": "Current",
+  "india_availability": "Available via luxury retailers",
+  "collections": [
+    "editors-picks"
+  ],
+  "purchaseLinks": {
+    "Louis Vuitton official": "https://us.louisvuitton.com/eng-us/products/imagination-nvprod2970067v/LP0219",
+    "Sephora": "https://www.sephora.com/"
+  },
+  "discontinued": false,
+  "valueScore": 8,
+  "archiveScore": 85,
+  "designScore": 88,
+  "qualityScore": 89,
+  "versatilityScore": 84,
+  "personalFitScore": 86,
+  "categoryRank": 3
+}

@@ -1,0 +1,70 @@
+{
+  "id": "le-labo-santal",
+  "name": "Santal 33",
+  "brand": "Le Labo",
+  "category": "fragrance",
+  "subcategory": "Eau de Parfum",
+  "thumbnail": "assets/images/le-labo-santal.jpg",
+  "heroImage": "assets/images/le-labo-santal.jpg",
+  "price": "₹19,900 – ₹26,950",
+  "price_usd": "$180–220",
+  "colours": [
+    "Clear"
+  ],
+  "materials": [
+    "Eau de Parfum",
+    "100ml"
+  ],
+  "description": "Sandalwood as a foundation. Iris, violet, and papyrus float atop—a fragrance that makes people ask what you're wearing.",
+  "patina": "The label has softened. The bottle cap has a slight patina from years of daily use. This is worn, not displayed.",
+  "whyThisFitsMyArchive": "Santal 33 is the fragrance for someone who owns only necessary objects. It works in summer and winter, in casual and formal settings.",
+  "whyIChooseThis": "Over Maison Margiela Beach Walk: Le Labo's consistency is unmatched. Every bottle smells identical, which means the perfume is the variable—not the production.",
+  "whatItPairsWithInMyCollection": "Alternate with Aventus. Worn during travel and outdoor settings where longevity matters more than sophistication.",
+  "whatMakesItTimeless": "Sandalwood has been used in perfumery for centuries. Le Labo simply refined it to its essence.",
+  "confidence": 95,
+  "priority": "Current",
+  "india_availability": "Officially available",
+  "indian_retailers": [
+    "Nykaa",
+    "Scentstore",
+    "Le Labo India"
+  ],
+  "import_required": false,
+  "collections": [
+    "tier-0-signatures"
+  ],
+  "purchaseLinks": {
+    "FridayCharm": "https://www.fridaycharm.com/products/le-labo-santal-33-eau-de-parfum",
+    "Scentira": "https://scentira.in/products/e-labo-santal-33-eau-de-parfum"
+  },
+  "indianRetailers": [
+    {
+      "name": "FridayCharm",
+      "url": "https://www.fridaycharm.com/products/le-labo-santal-33-eau-de-parfum"
+    },
+    {
+      "name": "Scentira",
+      "url": "https://scentira.in/products/e-labo-santal-33-eau-de-parfum"
+    },
+    {
+      "name": "Splash Fragrance",
+      "url": "https://splashfragrance.in/santal-33-by-le-labo-edp-perfume-decant-online-india/"
+    },
+    {
+      "name": "Luxe by Kan",
+      "url": "https://luxebykan.com/products/la-labo-santal-33-eau-de-parfum"
+    }
+  ],
+  "discontinued": false,
+  "alternativeUnder3000": "Not a realistic dupe — the cedar/sandalwood/cardamom structure is very specific",
+  "alternativeUnder10000": "Maison Margiela Replica Jazz Club (~₹8,000 on Nykaa) — woody, vanilla, different but same register",
+  "premiumAlternative": "By Kilian Rose & Oud (~₹30,000+ import) — same niche luxury segment",
+  "valueScore": 7,
+  "buyRecommendation": "Wait for Sale — FridayCharm regularly runs 20-30% off. The ₹19,900 sale price (was ₹26,950) is the right moment. Subscribe to their newsletter.",
+  "archiveScore": 90,
+  "designScore": 92,
+  "qualityScore": 91,
+  "versatilityScore": 84,
+  "personalFitScore": 90,
+  "categoryRank": 2
+}

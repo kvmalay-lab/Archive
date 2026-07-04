@@ -1,0 +1,98 @@
+{
+  "id": "massimo-dutti-merino-crewneck",
+  "name": "Merino Wool Crew Neck Sweater",
+  "brand": "Massimo Dutti",
+  "category": "clothing",
+  "subcategory": "Knitwear",
+  "thumbnail": "assets/images/massimo-dutti-merino-crewneck.jpg",
+  "heroImage": "assets/images/massimo-dutti-merino-crewneck.jpg",
+  "price": "₹6,990",
+  "colours": [
+    "Cream",
+    "Navy",
+    "Charcoal"
+  ],
+  "materials": [
+    "100% Merino wool"
+  ],
+  "description": "A lightweight Merino crew neck with a clean, refined fit. No branding, no fuss — just a sweater that does its job well.",
+  "whyThisFitsMyArchive": "Cream merino is the piece I wear on repeat through autumn. The weight is right — not heavy, not thin — and it softens after a few wears rather than pilling.",
+  "whatItReplaces": "Replaces the impulse to buy a 'statement knit' every winter. Cream merino in a clean crew neck does more work than anything with texture or pattern ever did.",
+  "whyIChooseThis": "Over cheaper acrylic-blend knits: real merino breathes and doesn't smell after a full day. Over designer knitwear: this does the same job at a price I can actually replace when it wears out.",
+  "whatItPairsWithInMyCollection": "Worn solo with the wool trousers. Layered under the bomber or coat when it's colder. Cream works with everything else I own.",
+  "layeringCombinations": "Alone with the wool or chino trousers. Over the Supima tee or linen shirt. Under the wool coat when it's genuinely cold.",
+  "colourCombinations": "Cream is the one I wear most — it sits well against black, navy, and denim without fighting any of them. Navy and charcoal are the backups.",
+  "bestSeason": "Autumn and winter",
+  "bestOccasions": "Everyday cold-weather dressing, casual to smart-casual",
+  "costPerWearReasoning": "₹6,990, worn weekly through the cooler months. Merino resists odour and doesn't need washing after every wear, so the cost per wear drops faster than the price tag suggests.",
+  "whatMakesItTimeless": "Merino ages well, cream is permanent, and the fit is refined without chasing trend.",
+  "whatProblemItSolves": "Knitwear that looks considered without requiring a luxury budget.",
+  "whatCouldReplaceIt": "A heavier lambswool knit for real cold, but this covers most of the year.",
+  "similarPiecesIWouldProbablyLike": "Massimo Dutti wool trousers (same understated refinement).",
+  "confidence": 89,
+  "priority": "Current",
+  "purchasePriority": "High Priority",
+  "worksBestWith": [
+    "massimo-dutti-wool-trousers",
+    "massimo-dutti-chino-trousers",
+    "uniqlo-supima-tee",
+    "massimo-dutti-linen-shirt",
+    "massimo-dutti-wool-coat"
+  ],
+  "alternative": "uniqlo-merino-turtleneck",
+  "buyAfter": [
+    "uniqlo-supima-tee",
+    "massimo-dutti-oxford"
+  ],
+  "layeringOver": "the Supima tee or linen shirt",
+  "layeringUnder": "the wool coat",
+  "seasonMatrix": {
+    "primary": [
+      "Autumn"
+    ],
+    "secondary": [
+      "Winter"
+    ]
+  },
+  "occasionMatrix": [
+    "Daily Wear",
+    "Weekend",
+    "Dinner"
+  ],
+  "similarProducts": [
+    "massimo-dutti-overshirt"
+  ],
+  "relatedProducts": [
+    "massimo-dutti-wool-coat",
+    "massimo-dutti-oxford"
+  ],
+  "collections": [
+    "quiet-luxury-essentials",
+    "capsule-wardrobe"
+  ],
+  "purchaseLinks": {
+    "Massimo Dutti India (official)": "https://www.massimodutti.com/in/men/knitwear-n3012"
+  },
+  "indianRetailers": [
+    {
+      "name": "Massimo Dutti India",
+      "url": "https://www.massimodutti.com/in/men/knitwear-n3012"
+    },
+    {
+      "name": "Massimo Dutti stores",
+      "url": "https://www.massimodutti.com/in/stores"
+    }
+  ],
+  "discontinued": false,
+  "alternativeUnder3000": "Uniqlo Extra Fine Merino Crewneck (~₹2,490-₹2,990 at uniqlo.com/in) — comparable wool quality at 60% less",
+  "alternativeUnder10000": "Massimo Dutti at sale price (~₹3,500-₹4,200) — this same piece during end-of-season clearance",
+  "premiumAlternative": "John Smedley Sea Island Cotton Crewneck (~₹25,000 import)",
+  "valueScore": 7,
+  "buyRecommendation": "Wait for Sale — Uniqlo Extra Fine Merino is equally good at half the price; only buy MD at 40% off or more.",
+  "archiveScore": 85,
+  "designScore": 88,
+  "qualityScore": 87,
+  "versatilityScore": 86,
+  "personalFitScore": 87,
+  "categoryRank": 6
+}

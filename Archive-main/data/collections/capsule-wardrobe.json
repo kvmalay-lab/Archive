@@ -1,0 +1,46 @@
+{
+  "id": "capsule-wardrobe",
+  "name": "The Capsule Wardrobe",
+  "description": "The foundational wardrobe. Every piece selected to work with every other piece. This is not minimalism as restriction—it's minimalism as freedom.",
+  "introduction": "This is the wardrobe I actually own and wear, built almost entirely on Massimo Dutti and Uniqlo — not because those are the most exciting names, but because they're the ones I'd genuinely rebuy. Everything here is ranked into four tiers, and the ranking is the point: Buy First, Buy Later, Future Upgrade, Dream Piece.\n\nBuy First is four foundation pieces plus what's already in daily rotation: the Supima tee, the selvedge jeans, the Oxford shirt, the black wool trousers, the Samba, the Santos, the belt, the sunglasses. If I owned nothing else, these would still get me through most weeks.\n\nBuy Later extends the foundation across seasons and formality rather than duplicating it — the turtleneck, the merino crewneck, the overshirt, the poplin shirt, the linen shirt, the bomber. Each covers a gap Buy First genuinely can't: cold-weather layering, heat, rain, a slightly dressier register. These get bought once Buy First is worn in and its gaps are obvious from actually living in it, not from a shopping list.\n\nFuture Upgrade is the honest long-term list — the chino trousers, the half-zip, the Harrington. Each solves a real but occasional gap, not a daily one, which is why they're ranked below everything else. Dream Piece is the wool coat alone: the single biggest investment in the archive, and deliberately the last thing on the list — it only pays off if the rest of the wardrobe has already proven itself through multiple winters first.",
+  "philosophy": "The capsule works because it's built on constraint, not abundance. Limitation forces thoughtfulness. Every addition must justify its existence by creating new combinations.",
+  "curatorNotes": "Buy First → Buy Later → Future Upgrade → Dream Piece. That order exists because every later tier only earns its place once an earlier one has actually been worn thin — nothing here should be bought out of sequence.",
+  "productIds": [
+    "uniqlo-supima-tee",
+    "uniqlo-selvedge-jean",
+    "massimo-dutti-oxford",
+    "massimo-dutti-wool-trousers",
+    "samba-og",
+    "cartier-santos",
+    "cos-leather-belt",
+    "ray-ban-wayfarer",
+    "uniqlo-merino-turtleneck",
+    "massimo-dutti-merino-crewneck",
+    "massimo-dutti-overshirt",
+    "massimo-dutti-relaxed-shirt",
+    "massimo-dutti-linen-shirt",
+    "massimo-dutti-jacket",
+    "massimo-dutti-chino-trousers",
+    "massimo-dutti-half-zip",
+    "zara-harrington-jacket",
+    "massimo-dutti-wool-coat"
+  ],
+  "colorPalette": [
+    "White",
+    "Black",
+    "Navy",
+    "Cream",
+    "Charcoal",
+    "Taupe"
+  ],
+  "materials": [
+    "Natural fibres",
+    "Italian leather",
+    "Japanese craftsmanship",
+    "Durable construction"
+  ],
+  "relatedCollections": [
+    "quiet-luxury-essentials",
+    "black-essentials"
+  ]
+}

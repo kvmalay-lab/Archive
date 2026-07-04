@@ -1,0 +1,41 @@
+{
+  "id": "jordan-flight-court",
+  "name": "Flight Court",
+  "brand": "Jordan",
+  "category": "footwear",
+  "subcategory": "Basketball",
+  "thumbnail": "assets/images/jordan-flight-court.jpg",
+  "heroImage": "assets/images/jordan-flight-court.jpg",
+  "price": "₹12,500 – ₹15,000",
+  "colours": [
+    "Phantom/University Red/Palomino/Black",
+    "Wolf Grey/University Red",
+    "White"
+  ],
+  "materials": [
+    "Smooth leather",
+    "Suede panels",
+    "Cushioned midsole",
+    "Rubber outsole"
+  ],
+  "description": "Jordan's Flight Court remixes elements from the AJ3, AJ4, and AJ5. Smooth leather and suede create a refined basketball aesthetic. Classic colorway heritage meets modern court performance.",
+  "whyThisFitsMyArchive": "Jordan heritage without the bombast. The Phantom/Red/Palomino colorway respects classic basketball culture while feeling contemporary. Wearable as a statement piece.",
+  "confidence": 85,
+  "priority": "Current",
+  "india_availability": "Available via international retailers",
+  "collections": [
+    "black-essentials"
+  ],
+  "purchaseLinks": {
+    "Nike SNKRS": "https://www.nike.com/launch",
+    "Superkicks": "https://www.superkicks.in/"
+  },
+  "discontinued": false,
+  "valueScore": 8,
+  "archiveScore": 80,
+  "designScore": 88,
+  "qualityScore": 87,
+  "versatilityScore": 82,
+  "personalFitScore": 83,
+  "categoryRank": 2
+}

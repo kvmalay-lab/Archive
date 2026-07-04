@@ -1,0 +1,61 @@
+{
+  "id": "contax-t2-titanium",
+  "name": "T2 35mm Point & Shoot (1990)",
+  "brand": "Contax",
+  "category": "accessories",
+  "subcategory": "Mechanical Tech",
+  "thumbnail": "assets/images/contax-t2-titanium.jpg",
+  "heroImage": "assets/images/contax-t2-titanium.jpg",
+  "price": "₹85,000 – ₹1,10,000 (secondary market)",
+  "colours": [
+    "Titanium Black"
+  ],
+  "materials": [
+    "Titanium body",
+    "Carl Zeiss Sonnar 38mm f/2.8 lens",
+    "Sapphire glass viewfinder"
+  ],
+  "description": "A luxury compact camera from 1990. Heavy, cold titanium housing one of the sharpest lenses ever put in a pocketable frame.",
+  "patina": "The titanium has a micro-scratch across the flash housing. The shutter button has polished to a high shine from thousands of presses. The leather case is falling apart, but the mechanics sound like a vault door closing.",
+  "whyThisFitsMyArchive": "It forces me to slow down. I have 36 shots, and they cost money. I don't take pictures of my food with this. The Carl Zeiss lens captures light in a way algorithms can't replicate. It is a permanent object in a disposable era.",
+  "whyIChooseThis": "Over an iPhone: The iPhone captures data; the T2 captures memory. Over a Leica: The T2 actually fits in the pocket of my Massimo Dutti coat without destroying the silhouette.",
+  "whatItPairsWithInMyCollection": "It is always in the left pocket of the Massimo Dutti Coat. It shares the same design philosophy as the Cartier Santos: exposed mechanics, zero apologies.",
+  "whatMakesItTimeless": "It cannot be updated via firmware. It will never ask to connect to Wi-Fi. It does one thing perfectly, forever.",
+  "confidence": 100,
+  "priority": "Current",
+  "collections": [
+    "quiet-luxury-essentials",
+    "editors-picks"
+  ],
+  "purchaseLinks": {
+    "eBay India (secondary)": "https://www.ebay.in/sch/i.html?_nkw=contax+t2",
+    "Etsy India (secondary)": "https://www.etsy.com/in-en/market/contax_t2"
+  },
+  "indianRetailers": [
+    {
+      "name": "eBay India (secondary market)",
+      "url": "https://www.ebay.in/sch/i.html?_nkw=contax+t2"
+    },
+    {
+      "name": "Local camera stores (Delhi, Mumbai vintage shops)",
+      "url": null
+    },
+    {
+      "name": "Etsy India",
+      "url": "https://www.etsy.com/in-en/market/contax_t2"
+    }
+  ],
+  "discontinued": true,
+  "discontinuedNote": "Production ended 2002. Secondary market only. Prices have stabilized at ₹85,000-₹1,10,000 for good condition copies.",
+  "alternativeUnder3000": "Kodak M35 film camera (~₹2,500 on Amazon India) — plastic body, 35mm, entry-level film",
+  "alternativeUnder10000": "Olympus Stylus Epic (MJU II) (~₹5,000-₹8,000 used) — 35mm f/2.8 lens, pocketable, much cheaper",
+  "premiumAlternative": "Leica M6 (~₹5,00,000+ used via mpb.com or local dealers) — the rangefinder benchmark",
+  "valueScore": 7,
+  "buyRecommendation": "Buy When You Find a Clean Copy — this is a collector piece; condition determines value. Inspect shutter, meter, and lens for fungus before buying. Prices have remained stable at ₹85,000-₹1,10,000 for CLA'd (cleaned, lubricated, adjusted) copies.",
+  "archiveScore": 90,
+  "designScore": 95,
+  "qualityScore": 93,
+  "versatilityScore": 60,
+  "personalFitScore": 95,
+  "categoryRank": 3
+}

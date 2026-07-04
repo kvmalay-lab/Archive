@@ -1,0 +1,99 @@
+{
+  "id": "massimo-dutti-overshirt",
+  "name": "Textured Cotton Overshirt",
+  "brand": "Massimo Dutti",
+  "category": "clothing",
+  "subcategory": "Overshirt",
+  "thumbnail": "assets/images/massimo-dutti-overshirt.jpg",
+  "heroImage": "assets/images/massimo-dutti-overshirt.jpg",
+  "price": "₹6,990",
+  "colours": [
+    "Off-white",
+    "Stone",
+    "Navy"
+  ],
+  "materials": [
+    "Heavyweight cotton",
+    "Structured weave"
+  ],
+  "description": "A heavier-weight overshirt built to layer or stand alone. Simple construction, no branding, the kind of piece I reach for without thinking.",
+  "whyThisFitsMyArchive": "This is the shirt I actually wear on a Tuesday. The weight holds its shape without feeling stiff, and off-white works as my off-duty uniform piece. It doesn't ask to be noticed, which is the point.",
+  "whatItReplaces": "Replaces a much thinner shirt-jacket I owned that couldn't hold its shape after a few washes. This one has enough weight to actually function as outerwear, not just look like it.",
+  "whyIChooseThis": "Over thinner poplin shirts: this has enough body to wear alone. Over designer equivalents: same silhouette, a fraction of the price, and I can actually replace it when it wears out.",
+  "whatItPairsWithInMyCollection": "Supima tee underneath in cooler weather. Worn open over a plain tee on warmer days. Grounds well with the wool trousers.",
+  "layeringCombinations": "Over the Supima tee as a light jacket. Over the linen shirt on cooler evenings. Under the wool coat if it's genuinely cold, though that's rare.",
+  "colourCombinations": "Off-white is the one I default to. Stone and navy round it out for variety without adding real complexity to the wardrobe.",
+  "bestSeason": "Spring and autumn — the in-between weeks a heavier jacket is overkill",
+  "bestOccasions": "Casual weekday, weekend, anything that doesn't need a real jacket",
+  "costPerWearReasoning": "₹7,990, worn most weeks between seasons. It does the job of a light jacket at shirt prices, which is most of the value case.",
+  "whatMakesItTimeless": "Neutral colourway, simple construction, nothing to date. It'll look the same in ten years because there's nothing trend-driven about it.",
+  "whatProblemItSolves": "A shirt with enough weight to look intentional but relaxed enough for daily rotation.",
+  "whatCouldReplaceIt": "A lighter Massimo Dutti oxford for warmer days, but this specific weight is what I reach for most.",
+  "similarPiecesIWouldProbablyLike": "Uniqlo Supima tee (same weight-first thinking).",
+  "confidence": 88,
+  "priority": "Current",
+  "purchasePriority": "High Priority",
+  "worksBestWith": [
+    "uniqlo-supima-tee",
+    "uniqlo-selvedge-jean",
+    "massimo-dutti-linen-shirt",
+    "samba-og"
+  ],
+  "alternative": "zara-harrington-jacket",
+  "buyAfter": [
+    "uniqlo-supima-tee",
+    "uniqlo-selvedge-jean",
+    "massimo-dutti-oxford"
+  ],
+  "layeringOver": "the Supima tee or the linen shirt",
+  "layeringUnder": "the wool coat, though that's rare",
+  "seasonMatrix": {
+    "primary": [
+      "Spring",
+      "Autumn"
+    ],
+    "secondary": [
+      "Winter"
+    ]
+  },
+  "occasionMatrix": [
+    "Daily Wear",
+    "Weekend",
+    "Travel"
+  ],
+  "similarProducts": [
+    "massimo-dutti-oxford"
+  ],
+  "relatedProducts": [
+    "massimo-dutti-oxford"
+  ],
+  "collections": [
+    "quiet-luxury-essentials",
+    "black-essentials"
+  ],
+  "purchaseLinks": {
+    "Massimo Dutti India (official)": "https://www.massimodutti.com/in/men/shirts-n1356"
+  },
+  "indianRetailers": [
+    {
+      "name": "Massimo Dutti India",
+      "url": "https://www.massimodutti.com/in/men/shirts-n1356"
+    },
+    {
+      "name": "Massimo Dutti stores",
+      "url": "https://www.massimodutti.com/in/stores"
+    }
+  ],
+  "discontinued": false,
+  "alternativeUnder3000": "Zara Oversized Shirt Jacket (~₹2,990 at zara.com/in) — lighter construction",
+  "alternativeUnder10000": "COS Relaxed Overshirt (~₹6,000-₹8,000 import via cos.com)",
+  "premiumAlternative": "A.P.C. Surchemise (~₹20,000 import via apc.fr)",
+  "valueScore": 7,
+  "buyRecommendation": "Wait for Sale — this drops to ₹3,500-₹4,500 in clearance. Not urgent to buy at full price given the Zara alternative.",
+  "archiveScore": 86,
+  "designScore": 89,
+  "qualityScore": 86,
+  "versatilityScore": 88,
+  "personalFitScore": 88,
+  "categoryRank": 7
+}

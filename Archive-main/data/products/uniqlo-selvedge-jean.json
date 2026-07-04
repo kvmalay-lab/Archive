@@ -1,0 +1,98 @@
+{
+  "id": "uniqlo-selvedge-jean",
+  "name": "Selvedge Relaxed Jeans",
+  "brand": "Uniqlo",
+  "category": "clothing",
+  "subcategory": "Denim",
+  "thumbnail": "assets/images/uniqlo-selvedge-jean.jpg",
+  "heroImage": "assets/images/uniqlo-selvedge-jean.jpg",
+  "additionalImages": [],
+  "price": "₹2,990",
+  "colours": [
+    "Black",
+    "Indigo",
+    "Dark wash"
+  ],
+  "materials": [
+    "100% cotton selvedge denim, 13.5oz"
+  ],
+  "description": "Genuine selvedge construction at a fraction of premium denim pricing. 13.5oz cotton will fade and develop character over years of wear.",
+  "whyThisFitsMyArchive": "The price allows me to own multiple pairs guilt-free. Real indigo means authentic fading. The weight means structure that lasts. At ₹3990, I'm being smart about money without sacrificing quality.",
+  "whatItReplaces": "Replaced a pair of raw designer denim I owned for two years and wore maybe thirty times total — the price never stopped mattering enough to wear them carelessly, which defeats the point of raw denim.",
+  "whyIChooseThis": "Over luxury denim brands: This fabric ages as beautifully for a fraction of the cost. Over thinner uniqlo denim: This weight is future-proof. Over trendy denim: I'm not buying a fashion statement.",
+  "whatItPairsWithInMyCollection": "Every casual outfit foundation. Under Massimo Dutti overshirts, Supima tees, Massimo Dutti coat. With Samba or white Achilles. This is my weekend denim.",
+  "layeringCombinations": "Not a layering piece — it's a foundation. Works under the overshirt or the Harrington on top.",
+  "colourCombinations": "Indigo and black cover both ends of the wardrobe — indigo for daytime and casual, black for anything that needs to read slightly more considered.",
+  "bestSeason": "Year-round",
+  "bestOccasions": "Weekend, casual weekday, anything that doesn't require trousers",
+  "costPerWearReasoning": "₹3,990 for a pair worn at least once a week. Even replacing them every two years, that's under ₹40 a wear, and the fade only gets better with time.",
+  "whatMakesItTimeless": "Real indigo, selvedge construction, neutral indigo color. No special details to date. In 20 years, well-worn jeans will look vintage-quality.",
+  "whatProblemItSolves": "Needing jeans that get better with time, not worse. Authentic indigo fading is the point—my pair becomes mine through wear.",
+  "whatCouldReplaceIt": "A heavier Japanese selvedge import for more premium materials. A.P.C. for French approach. But this selvedge at this price is specific.",
+  "similarPiecesIWouldProbablyLike": "Uniqlo Supima tee (same value intelligence). Samba OG (same proportional confidence). Cartier Santos (same 'buy once' philosophy).",
+  "confidence": 92,
+  "priority": "Current",
+  "purchasePriority": "Essential",
+  "worksBestWith": [
+    "uniqlo-supima-tee",
+    "massimo-dutti-overshirt",
+    "samba-og",
+    "kozasko-penny-loafer",
+    "zara-harrington-jacket",
+    "massimo-dutti-merino-crewneck"
+  ],
+  "alternative": "massimo-dutti-chino-trousers",
+  "buyAfter": [],
+  "seasonMatrix": {
+    "primary": [
+      "Spring",
+      "Autumn",
+      "Winter"
+    ],
+    "secondary": [
+      "Summer"
+    ]
+  },
+  "occasionMatrix": [
+    "Daily Wear",
+    "University",
+    "Weekend",
+    "Date Night",
+    "Travel"
+  ],
+  "similarProducts": [],
+  "relatedProducts": [
+    "uniqlo-supima-tee",
+    "massimo-dutti-oxford"
+  ],
+  "collections": [
+    "capsule-wardrobe",
+    "black-essentials",
+    "editors-picks"
+  ],
+  "purchaseLinks": {
+    "Uniqlo India (official)": "https://www.uniqlo.com/in/en/products/E485737-000/00"
+  },
+  "indianRetailers": [
+    {
+      "name": "Uniqlo India",
+      "url": "https://www.uniqlo.com/in/en/products/E485737-000/00"
+    },
+    {
+      "name": "Uniqlo stores",
+      "url": "https://www.uniqlo.com/in/en/stores/"
+    }
+  ],
+  "discontinued": false,
+  "alternativeUnder3000": "Uniqlo Slim Straight Jeans non-selvedge (~₹2,490 at uniqlo.com/in) — same fit, lighter denim",
+  "alternativeUnder10000": "Zara Slim Fit Jeans (~₹3,990 at zara.com/in) — trendier cut, less durable",
+  "premiumAlternative": "A.P.C. Petit New Standard (~₹22,000 import via apc.fr) — French raw denim benchmark",
+  "valueScore": 10,
+  "buyRecommendation": "Buy Now — selvedge construction at this price is genuinely hard to match. No meaningful sales; buy in both indigo and black.",
+  "archiveScore": 94,
+  "designScore": 90,
+  "qualityScore": 92,
+  "versatilityScore": 97,
+  "personalFitScore": 96,
+  "categoryRank": 2
+}

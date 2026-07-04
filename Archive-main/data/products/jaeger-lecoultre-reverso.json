@@ -1,0 +1,65 @@
+{
+  "id": "jaeger-lecoultre-reverso",
+  "name": "Reverso Classic Small",
+  "brand": "Jaeger-LeCoultre",
+  "category": "watches",
+  "subcategory": "Dress/art deco",
+  "thumbnail": "assets/images/jaeger-lecoultre-reverso.jpg",
+  "heroImage": "assets/images/jaeger-lecoultre-reverso.jpg",
+  "price": "₹7,41,499 (new) / from ₹5,30,878 (pre-owned)",
+  "colours": [
+    "Silver dial",
+    "Champagne dial"
+  ],
+  "materials": [
+    "Stainless steel",
+    "Art Deco design",
+    "Hand-wound movement"
+  ],
+  "description": "The Reverso. Designed in 1931 for polo players, refined for a century. The flip case is pure brilliance.",
+  "whyThisFitsMyArchive": "The Reverso represents the entire philosophy of this archive: why complicate? Why add features? Why not just solve the problem elegantly? Most watch designers make bigger cases. JLC made a reversible case. It's smaller than a Cartier Santos but wears with more presence because the dial is protected. This is a watch that thinks for itself. It works in contexts other watches cannot.",
+  "archiveNotes": "In 1931, Jaeger-LeCoultre created the Reverso for polo players who needed protection for their watch crystals during matches. The solution was genius: make the case flip. The mechanism is purely mechanical—a reversing case that requires zero batteries, zero electronics. Push a button on the bracelet and the entire case rotates 180 degrees, protecting the dial. Flip it again and you have a watch again. This is innovation that serves a real problem without unnecessary complexity. The movement inside is hand-wound, meaning the owner winds it daily. This creates a ritual—a tactile connection to the watch.",
+  "stylingNotes": "Silver dial is the default—clean and refined. Champagne dial is warmer and works better in evening contexts. The small size means it works on all wrist sizes—there's no 'too small' here because the proportions are perfect. Wear on leather strap for formal occasions—the Art Deco proportions call for leather, not metal. Wear the case flipped closed during formal events, then flip it open for daily activity. The reversibility is functional, not theatrical.",
+  "confidence": 92,
+  "priority": "Dream",
+  "similarProducts": [
+    "cartier-santos"
+  ],
+  "relatedProducts": [
+    "rolex-datejust-36"
+  ],
+  "collections": [
+    "quiet-luxury-essentials",
+    "editors-picks"
+  ],
+  "purchaseLinks": {
+    "Ethos Watches (authorized)": "https://www.ethoswatches.com/brands/jaeger-lecoultre/reverso.html",
+    "Chrono24 India (pre-owned)": "https://www.chrono24.in/jaegerlecoultre/prices-for-reverso-watches--mod148-new.htm"
+  },
+  "indianRetailers": [
+    {
+      "name": "Ethos Watches",
+      "url": "https://www.ethoswatches.com/brands/jaeger-lecoultre/reverso.html"
+    },
+    {
+      "name": "Chrono24 India (pre-owned)",
+      "url": "https://www.chrono24.in/jaegerlecoultre/prices-for-reverso-watches--mod148-new.htm"
+    },
+    {
+      "name": "Luxepolis (pre-owned)",
+      "url": "https://www.luxepolis.com/all-brands/iwc"
+    }
+  ],
+  "discontinued": false,
+  "alternativeUnder3000": "Not applicable",
+  "alternativeUnder10000": "Not applicable",
+  "premiumAlternative": "JLC Reverso Tribute Duoface (~₹12,20,373) — same case, two time zones",
+  "valueScore": 9,
+  "buyRecommendation": "Buy Now — the Reverso Classic Monoface Small Seconds is the entry point at ~₹7,41,499. Certified pre-owned from Ethos or Chrono24.in at ~₹5,30,878 is a legitimate path — the movements are serviced and the flipping case remains mechanically sound for decades.",
+  "archiveScore": 94,
+  "designScore": 97,
+  "qualityScore": 96,
+  "versatilityScore": 82,
+  "personalFitScore": 92,
+  "categoryRank": 2
+}

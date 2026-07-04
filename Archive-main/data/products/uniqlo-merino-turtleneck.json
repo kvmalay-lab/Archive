@@ -1,0 +1,94 @@
+{
+  "id": "uniqlo-merino-turtleneck",
+  "name": "Extra Fine Merino Turtleneck",
+  "brand": "Uniqlo",
+  "category": "clothing",
+  "subcategory": "Knitwear",
+  "thumbnail": "assets/images/uniqlo-merino-turtleneck.jpg",
+  "heroImage": "assets/images/uniqlo-merino-turtleneck.jpg",
+  "additionalImages": [],
+  "price": "₹2,990",
+  "colours": [
+    "Dark grey",
+    "Black",
+    "Navy",
+    "Charcoal"
+  ],
+  "materials": [
+    "100% extra-fine merino wool"
+  ],
+  "description": "Fine-gauge merino turtleneck — slim without being tight, warm without bulk. The off-duty uniform piece for cold seasons.",
+  "whyThisFitsMyArchive": "This turtleneck is the foundation cold-weather piece. Layer under the Massimo Dutti coat. Wear under tailored blazers. Wear under fine-gauge sweaters. The slim cut means it works under formal suiting without bulk. The merino fiber means it doesn't need constant washing. This is the piece you'll reach for constantly in winter.",
+  "whatItReplaces": "Replaces a thicker wool turtleneck I used to own that was too warm to layer under anything — this fine-gauge version actually works as a base layer instead of being the whole outfit.",
+  "layeringCombinations": "Under the wool coat. Under tailored blazers. Under the half-zip on the coldest days for genuine warmth without bulk.",
+  "colourCombinations": "Dark grey and black do most of the work. Navy and charcoal exist for variety but aren't essential.",
+  "bestSeason": "Winter and the shoulder seasons either side of it",
+  "bestOccasions": "Cold-weather layering, both formal and casual",
+  "costPerWearReasoning": "₹3,490 and it only gets worn a few months a year here, but the fine gauge means it launders and lasts, so the cost per wear over a few winters is still low.",
+  "archiveNotes": "Extra-fine merino is rare at this price point. Uniqlo sources from New Zealand and uses a fine-gauge construction that feels like silk against the skin. The turtleneck eliminates the need for additional layering pieces. At ₹3,490, this is objectively one of the best values in cold-weather dressing. The merino regulates temperature naturally—warm when cold, cool when warm. It resists odor, so it needs less frequent washing. This is a piece that improves with time and care.",
+  "stylingNotes": "Dark grey and black are equally versatile—choose based on what you're layering with. Navy and charcoal are options but less essential. The turtleneck works as a layering piece (under coats and sweaters) and as a standalone piece with tailored trousers. The slim cut means the silhouette remains clean regardless of layering. Pair with Massimo Dutti trousers and the Massimo Dutti coat for a perfect winter silhouette.",
+  "confidence": 93,
+  "priority": "Current",
+  "purchasePriority": "High Priority",
+  "worksBestWith": [
+    "massimo-dutti-wool-trousers",
+    "massimo-dutti-wool-coat",
+    "uniqlo-selvedge-jean",
+    "massimo-dutti-half-zip"
+  ],
+  "alternative": "massimo-dutti-merino-crewneck",
+  "buyAfter": [
+    "uniqlo-supima-tee",
+    "uniqlo-selvedge-jean",
+    "massimo-dutti-oxford",
+    "massimo-dutti-wool-trousers"
+  ],
+  "layeringOver": "the Supima tee in the coldest weeks",
+  "layeringUnder": "the wool coat, tailored blazers, the bomber",
+  "seasonMatrix": {
+    "primary": [
+      "Winter"
+    ],
+    "secondary": [
+      "Autumn"
+    ]
+  },
+  "occasionMatrix": [
+    "Daily Wear",
+    "Office",
+    "Travel"
+  ],
+  "similarProducts": [],
+  "relatedProducts": [
+    "uniqlo-supima-tee",
+    "massimo-dutti-wool-coat"
+  ],
+  "collections": [
+    "capsule-wardrobe"
+  ],
+  "purchaseLinks": {
+    "Uniqlo India (official)": "https://www.uniqlo.com/in/en/products/E450538-000/00"
+  },
+  "indianRetailers": [
+    {
+      "name": "Uniqlo India",
+      "url": "https://www.uniqlo.com/in/en/products/E450538-000/00"
+    },
+    {
+      "name": "Uniqlo stores",
+      "url": "https://www.uniqlo.com/in/en/stores/"
+    }
+  ],
+  "discontinued": false,
+  "alternativeUnder3000": "Uniqlo Extra Fine Merino V-neck (~₹2,490 at uniqlo.com/in) — same fabric, open collar",
+  "alternativeUnder10000": "COS Merino Turtleneck (~₹5,000-₹7,000 import via cos.com)",
+  "premiumAlternative": "N.Peal Cashmere Turtleneck (~₹45,000 import via npeal.com)",
+  "valueScore": 9,
+  "buyRecommendation": "Buy Now — Extra Fine Merino is Uniqlo's standout product. Stock is seasonal; buy in October before sizes run out.",
+  "archiveScore": 88,
+  "designScore": 87,
+  "qualityScore": 88,
+  "versatilityScore": 85,
+  "personalFitScore": 90,
+  "categoryRank": 5
+}

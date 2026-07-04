@@ -1,0 +1,93 @@
+{
+  "id": "massimo-dutti-oxford",
+  "name": "Oxford Cotton Shirt",
+  "brand": "Massimo Dutti",
+  "category": "clothing",
+  "subcategory": "Shirt",
+  "thumbnail": "assets/images/massimo-dutti-oxford.jpg",
+  "heroImage": "assets/images/massimo-dutti-oxford.jpg",
+  "additionalImages": [],
+  "price": "₹4,990",
+  "colours": [
+    "Navy",
+    "White",
+    "Light blue",
+    "Stone"
+  ],
+  "materials": [
+    "100% Oxford cotton"
+  ],
+  "description": "Soft-collared, slightly relaxed Oxford shirt that ages well with washing. The Oxford weave means the fabric softens and becomes more textured with each wash.",
+  "whyThisFitsMyArchive": "The most versatile garment in this archive. Wear it alone with tailored trousers or denim. Wear it as a layer under sweaters or blazers. The softness means it's comfortable for extended wear. The Oxford weave means it's formal enough for professional settings and relaxed enough for weekends.",
+  "whatItReplaces": "Replaces the idea that a 'good shirt' needs a four-figure logo on it. I used to think Oxford shirts needed to come from a heritage shirtmaker to be worth owning. They don't.",
+  "layeringCombinations": "Alone with trousers or denim. Under a knit on cooler days — the collar sits cleanly under a crewneck.",
+  "colourCombinations": "White and navy are the two I actually rotate. Light blue is the one I reach for when I want to look slightly more put-together without trying.",
+  "bestSeason": "Year-round, slightly heavier so best outside peak summer",
+  "bestOccasions": "Work, dinners, anything that needs a collar",
+  "costPerWearReasoning": "₹4,990, worn roughly once a week for anything semi-formal. At two years of steady wear that's comfortably under ₹50 a wear, and it looks better with every wash.",
+  "archiveNotes": "Oxford cotton is a classic weave pattern where two yarns are woven together, creating a textured, durable fabric. Massimo Dutti sources high-quality cotton at accessible pricing. The construction is precise: collar construction is reinforced, button holes are well-finished, sleeves are cut correctly. This shirt will outlast faster fashion alternatives. After ten washes, it softens. After twenty washes, it becomes familiar. This is a shirt you'll wear often.",
+  "stylingNotes": "White is the most versatile—it works in professional and casual settings. Navy is elegant and works with everything in this archive. Light blue is sophisticated and works particularly well with tailored trousers. Stone is too casual for this price point. The slightly relaxed fit means the shirt can be worn untucked or tucked. For formal contexts, tuck it. For casual contexts, leave it untucked. Wear with indigo denim and white sneakers, or with tailored wool and minimalist shoes.",
+  "confidence": 94,
+  "priority": "Current",
+  "purchasePriority": "Essential",
+  "worksBestWith": [
+    "massimo-dutti-wool-trousers",
+    "uniqlo-selvedge-jean",
+    "cos-leather-belt",
+    "cartier-santos",
+    "kozasko-penny-loafer"
+  ],
+  "alternative": "massimo-dutti-relaxed-shirt",
+  "buyAfter": [],
+  "layeringOver": "a plain tee if worn open",
+  "layeringUnder": "the merino crewneck or the overshirt",
+  "seasonMatrix": {
+    "primary": [
+      "Autumn",
+      "Winter",
+      "Spring"
+    ],
+    "secondary": [
+      "Summer"
+    ]
+  },
+  "occasionMatrix": [
+    "Office",
+    "Daily Wear",
+    "Dinner",
+    "Travel"
+  ],
+  "similarProducts": [],
+  "relatedProducts": [
+    "uniqlo-selvedge-jean"
+  ],
+  "collections": [
+    "capsule-wardrobe",
+    "editors-picks"
+  ],
+  "purchaseLinks": {
+    "Massimo Dutti India (official)": "https://www.massimodutti.com/in/men/shirts/oxford-n3019"
+  },
+  "indianRetailers": [
+    {
+      "name": "Massimo Dutti India",
+      "url": "https://www.massimodutti.com/in/men/shirts/oxford-n3019"
+    },
+    {
+      "name": "Massimo Dutti stores",
+      "url": "https://www.massimodutti.com/in/stores"
+    }
+  ],
+  "discontinued": false,
+  "alternativeUnder3000": "Uniqlo Oxford BD Shirt (~₹1,990 at uniqlo.com/in) — comparable quality, less refined collar",
+  "alternativeUnder10000": "COS Cotton Oxford Shirt (~₹5,000-₹7,000 import via cos.com) — cleaner European proportions",
+  "premiumAlternative": "Polo Ralph Lauren OCBD (~₹10,000-₹15,000 import) — the heritage benchmark",
+  "valueScore": 8,
+  "buyRecommendation": "Wait for Sale — Massimo Dutti India runs 30-50% off seasonally. This shirt drops to ~₹2,500-₹3,500 during sales. Add to cart and wait.",
+  "archiveScore": 92,
+  "designScore": 90,
+  "qualityScore": 88,
+  "versatilityScore": 95,
+  "personalFitScore": 94,
+  "categoryRank": 3
+}

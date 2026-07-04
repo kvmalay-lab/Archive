@@ -1,0 +1,40 @@
+{
+  "id": "quiet-luxury-essentials",
+  "name": "Quiet Luxury Essentials",
+  "description": "Pieces that communicate quality through material and proportion alone. No logos. No obvious branding. Just craft.",
+  "introduction": "Quiet luxury isn't new money trying to hide. It's the confidence that comes from knowing something is excellent. These pieces speak to people who understand quality.",
+  "philosophy": "In a world obsessed with logos, restraint becomes radical. These items cost what they cost because of construction, materials, and time—not cachet.",
+  "curatorNotes": "The best pieces in this collection are worth more than they cost. Italian leather that improves with age. Japanese fabrics that cost 3x their fast-fashion equivalents. German engineering that lasts decades.",
+  "productIds": [
+    "massimo-dutti-wool-coat",
+    "massimo-dutti-overshirt",
+    "kozasko-penny-loafer",
+    "cartier-santos",
+    "hermes-terre-hermes-eau-givree",
+    "massimo-dutti-merino-crewneck",
+    "massimo-dutti-half-zip",
+    "rolex-datejust-36",
+    "massimo-dutti-relaxed-shirt",
+    "contax-t2-titanium",
+    "jaeger-lecoultre-reverso",
+    "omega-seamaster"
+  ],
+  "colorPalette": [
+    "Cream",
+    "White",
+    "Black",
+    "Charcoal",
+    "Taupe",
+    "Navy"
+  ],
+  "materials": [
+    "Italian leather",
+    "Japanese yarn",
+    "German engineering",
+    "Natural fibres"
+  ],
+  "relatedCollections": [
+    "capsule-wardrobe",
+    "black-essentials"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "black-essentials",
+  "name": "Black Essentials",
+  "description": "Monochrome dressing as design philosophy. Black pieces that define a decade of personal style.",
+  "introduction": "A complete black capsule that proves a single colour never reads as limited. When nothing competes for attention, quality becomes visible.",
+  "philosophy": "Wearing primarily black isn't restriction. It's a decision to let other things matter. Your presence. Your words. Your impact. Not the colour of your shirt.",
+  "curatorNotes": "The best black wardrobe contains subtle variation. Different fabrics, different proportions, different textures. These pieces never read as uniform.",
+  "productIds": [
+    "uniqlo-supima-tee",
+    "uniqlo-selvedge-jean",
+    "samba-og",
+    "kozasko-penny-loafer",
+    "massimo-dutti-wool-trousers",
+    "massimo-dutti-relaxed-shirt",
+    "massimo-dutti-overshirt",
+    "zara-harrington-jacket",
+    "jordan-flight-court"
+  ],
+  "colorPalette": [
+    "Black",
+    "Charcoal",
+    "Off-white",
+    "Navy"
+  ],
+  "materials": [
+    "Japanese cotton",
+    "Italian leather",
+    "German wool",
+    "Sustainable fabrics"
+  ],
+  "relatedCollections": [
+    "capsule-wardrobe",
+    "quiet-luxury-essentials"
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "id": "massimo-dutti-jacket",
+  "name": "Technical Bomber Jacket",
+  "brand": "Massimo Dutti",
+  "category": "clothing",
+  "subcategory": "Jacket",
+  "thumbnail": "assets/images/massimo-dutti-jacket.jpg",
+  "heroImage": "assets/images/massimo-dutti-jacket.jpg",
+  "price": "₹13,900",
+  "colours": [
+    "Navy",
+    "Black",
+    "Stone"
+  ],
+  "materials": [
+    "Technical water-repellent fabric",
+    "Ribbed collar and cuffs"
+  ],
+  "description": "A clean, minimal bomber built for the in-between seasons — light enough for spring, weatherproof enough for a sudden downpour.",
+  "whyThisFitsMyArchive": "The proportions are right straight off the rack — not oversized, not fitted. Navy reads as sophisticated rather than sporty. This is the jacket I actually reach for on an ordinary weekday.",
+  "whatItReplaces": "Replaces a heavier, more structured jacket I used to over-pack for spring trips. This does the same job at half the bulk and actually handles a sudden downpour.",
+  "whyIChooseThis": "Over heritage brand versions: same silhouette, realistic price, easy to replace. Over trend-driven jackets: this proportion won't look dated in five years.",
+  "whatItPairsWithInMyCollection": "Over a Supima tee with raw denim and Samba. Works layered over the overshirt in colder weather.",
+  "layeringCombinations": "Over the Supima tee. Over the linen shirt or overshirt when it's cooler than expected.",
+  "colourCombinations": "Navy is the one I actually own and wear. Black and stone are realistic alternates if I need a second colourway.",
+  "bestSeason": "Spring and autumn",
+  "bestOccasions": "Commuting, travel, anything unpredictable weather-wise",
+  "costPerWearReasoning": "₹12,900, worn through both shoulder seasons most years. It replaces needing a separate rain jacket and a separate light jacket, so the real cost is lower than it looks on paper.",
+  "whatMakesItTimeless": "A simple, correctly-proportioned jacket built for real bodies, not seasonal trend cycles.",
+  "whatProblemItSolves": "A lightweight jacket that works spring and autumn without chasing fashion.",
+  "whatCouldReplaceIt": "The wool coat for colder days, but this fills the in-between-season gap nothing else does.",
+  "similarPiecesIWouldProbablyLike": "Samba OG (same understated confidence).",
+  "confidence": 84,
+  "priority": "Current",
+  "purchasePriority": "High Priority",
+  "worksBestWith": [
+    "uniqlo-supima-tee",
+    "uniqlo-selvedge-jean",
+    "massimo-dutti-overshirt",
+    "samba-og"
+  ],
+  "alternative": "zara-harrington-jacket",
+  "buyAfter": [
+    "uniqlo-supima-tee",
+    "uniqlo-selvedge-jean"
+  ],
+  "layeringOver": "the Supima tee, the overshirt, or the linen shirt",
+  "seasonMatrix": {
+    "primary": [
+      "Spring",
+      "Autumn"
+    ],
+    "secondary": [
+      "Winter"
+    ]
+  },
+  "occasionMatrix": [
+    "Travel",
+    "Airport",
+    "Daily Wear",
+    "Weekend"
+  ],
+  "similarProducts": [
+    "massimo-dutti-wool-coat"
+  ],
+  "relatedProducts": [
+    "samba-og"
+  ],
+  "collections": [],
+  "purchaseLinks": {
+    "Massimo Dutti India (official)": "https://www.massimodutti.com/in/men/jackets-n3013"
+  },
+  "indianRetailers": [
+    {
+      "name": "Massimo Dutti India",
+      "url": "https://www.massimodutti.com/in/men/jackets-n3013"
+    },
+    {
+      "name": "Massimo Dutti stores",
+      "url": "https://www.massimodutti.com/in/stores"
+    }
+  ],
+  "discontinued": false,
+  "alternativeUnder3000": "Zara Basic Bomber (~₹2,990 at zara.com/in) — thinner construction, similar silhouette",
+  "alternativeUnder10000": "H&M Studio Satin Bomber (~₹5,990 at hm.com/in)",
+  "premiumAlternative": "Norse Projects Ryan Nylon Bomber (~₹30,000 import)",
+  "valueScore": 7,
+  "buyRecommendation": "Wait for Sale — outerwear has the deepest seasonal discounts. This can drop to ₹6,000-₹8,000 at clearance.",
+  "archiveScore": 81,
+  "designScore": 85,
+  "qualityScore": 84,
+  "versatilityScore": 80,
+  "personalFitScore": 82,
+  "categoryRank": 10
+}

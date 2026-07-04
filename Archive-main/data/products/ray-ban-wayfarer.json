@@ -1,0 +1,73 @@
+{
+  "id": "ray-ban-wayfarer",
+  "name": "Wayfarer Classic",
+  "brand": "Ray-Ban",
+  "category": "accessories",
+  "subcategory": "Eyewear",
+  "thumbnail": "assets/images/ray-ban-wayfarer.jpg",
+  "heroImage": "assets/images/ray-ban-wayfarer.jpg",
+  "additionalImages": [],
+  "price": "₹9,990 (standard) / ₹13,491 (polarized)",
+  "colours": [
+    "Black",
+    "Tortoise"
+  ],
+  "materials": [
+    "Acetate frame",
+    "G-15 glass lenses"
+  ],
+  "description": "Classic trapezoidal acetate sunglasses with G-15 glass lenses. The iconic Wayfarer shape has remained unchanged since 1952.",
+  "whyThisFitsMyArchive": "The trapezoidal shape suits my face without drawing attention to the fact that I'm wearing sunglasses. G-15 lenses let me see correctly instead of turning everything brown or grey. Black acetate becomes invisible when I wear black.",
+  "whyIChooseThis": "Over Aviators: The proportions suit me better. Over designer sunglasses: This works without being precious. Over other vintage frames: Wayfarer is refined.",
+  "whatItPairsWithInMyCollection": "Every outdoor context. Black clothing, cream clothing, everything. These sunglasses don't compete visually.",
+  "whatMakesItTimeless": "The trapezoidal shape has been correct since 1952. G-15 is permanent technology. Black is permanent.",
+  "whatProblemItSolves": "Sunglasses that don't announce themselves. Wayfarer disappears.",
+  "whatCouldReplaceIt": "Persol 649 for Italian alternative. Different Wayfarers in other sizes. But the classic shape is specific.",
+  "similarPiecesIWouldProbablyLike": "Cartier Santos (same invisibility through proportions). Samba OG (same heritage authenticity).",
+  "confidence": 83,
+  "priority": "Current",
+  "similarProducts": [],
+  "relatedProducts": [],
+  "collections": [
+    "capsule-wardrobe"
+  ],
+  "purchaseLinks": {
+    "Ray-Ban India (official)": "https://india.ray-ban.com/sunglasses/most-popular/original-wayfarer.html",
+    "Myntra": "https://www.myntra.com/ray-ban-wayfarer",
+    "AJIO Luxe": "https://luxe.ajio.com/ray-ban-0rb43406015850-full-rim-polarized-wayfarer-sunglasses/p/460550720_black"
+  },
+  "indianRetailers": [
+    {
+      "name": "Ray-Ban India (official)",
+      "url": "https://india.ray-ban.com/sunglasses/most-popular/original-wayfarer.html"
+    },
+    {
+      "name": "Myntra",
+      "url": "https://www.myntra.com/ray-ban-wayfarer"
+    },
+    {
+      "name": "AJIO / AJIO Luxe",
+      "url": "https://luxe.ajio.com/ray-ban-0rb43406015850-full-rim-polarized-wayfarer-sunglasses/p/460550720_black"
+    },
+    {
+      "name": "LensKart",
+      "url": "https://www.lenskart.com/brands/ray-ban.html"
+    },
+    {
+      "name": "Flipkart",
+      "url": "https://www.flipkart.com/q/rayban-wayfarer"
+    }
+  ],
+  "discontinued": false,
+  "alternativeUnder3000": "Vincent Chase by LensKart (~₹1,500-₹2,000) — clean shapes, no brand cachet",
+  "alternativeUnder10000": "Carrera Sunglasses (~₹5,000-₹8,000 at LensKart) — sportier but cleaner than Ray-Ban",
+  "premiumAlternative": "Persol 649 (~₹20,000 on Persol India or LensKart) — Italian acetate, polarized, more refined",
+  "valueScore": 8,
+  "buyRecommendation": "Buy Polarized — the G-15 polarized version at ₹13,491 on AJIO Luxe is the right choice; non-polarized standard lenses at ₹9,990 are a false economy given India's light conditions. Ray-Ban India official or LensKart are most reliable for authenticity.",
+  "archiveScore": 88,
+  "designScore": 90,
+  "qualityScore": 85,
+  "versatilityScore": 94,
+  "personalFitScore": 87,
+  "categoryRank": 1
+}

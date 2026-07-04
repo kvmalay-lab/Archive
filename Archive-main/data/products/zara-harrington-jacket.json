@@ -1,0 +1,98 @@
+{
+  "id": "zara-harrington-jacket",
+  "name": "Cotton Harrington Jacket",
+  "brand": "Zara",
+  "category": "clothing",
+  "subcategory": "Jacket",
+  "thumbnail": "assets/images/zara-harrington-jacket.jpg",
+  "heroImage": "assets/images/zara-harrington-jacket.jpg",
+  "price": "₹4,990",
+  "colours": [
+    "Navy",
+    "Black"
+  ],
+  "materials": [
+    "Cotton blend",
+    "Tartan-lined collar"
+  ],
+  "description": "A straightforward Harrington cut — short length, fitted waistband, simple collar. The proportions do the work, not the branding.",
+  "whyThisFitsMyArchive": "The bomber covers technical, weatherproof days. This covers the rest — a jacket I can wear over a shirt without it reading as sporty. Navy is the one I'd actually reach for on a normal weekday.",
+  "whatItReplaces": "Doesn't replace the bomber — it covers occasions where the bomber's technical, sporty read is the wrong note and something with a collar makes more sense.",
+  "whyIChooseThis": "Over heritage-brand Harringtons: same proportion, a price I can replace without thinking twice. Over the bomber for smarter occasions: this collar reads more considered.",
+  "whatItPairsWithInMyCollection": "Over the Supima tee with the selvedge jeans. Over the linen shirt on cooler evenings.",
+  "layeringCombinations": "Over the Supima tee. Over the relaxed poplin shirt for something dressier.",
+  "colourCombinations": "Navy is the priority colour. Black is the realistic second option if the jacket earns a permanent place in the rotation.",
+  "bestSeason": "Spring and autumn",
+  "bestOccasions": "Smart-casual, occasions the bomber reads as too sporty for",
+  "costPerWearReasoning": "₹5,990 for a piece that would see real use maybe a dozen times a year at first — worth adding once the bomber's limitations actually show up in practice, not before.",
+  "whatMakesItTimeless": "A proportion that's stayed correct for seventy years because it was never about trend to begin with.",
+  "whatProblemItSolves": "A lightweight jacket for spring and autumn that isn't technical or sporty.",
+  "whatCouldReplaceIt": "The technical bomber for wet weather, but this is the one for everything else.",
+  "similarPiecesIWouldProbablyLike": "Massimo Dutti Technical Bomber Jacket (same in-between-season role).",
+  "confidence": 80,
+  "priority": "Worth exploring",
+  "purchasePriority": "Future Upgrade",
+  "worksBestWith": [
+    "uniqlo-supima-tee",
+    "uniqlo-selvedge-jean",
+    "massimo-dutti-relaxed-shirt"
+  ],
+  "alternative": "massimo-dutti-jacket",
+  "buyAfter": [
+    "massimo-dutti-jacket"
+  ],
+  "layeringOver": "the Supima tee or the poplin shirt",
+  "seasonMatrix": {
+    "primary": [
+      "Spring",
+      "Autumn"
+    ],
+    "secondary": []
+  },
+  "occasionMatrix": [
+    "Weekend",
+    "Daily Wear",
+    "Date Night"
+  ],
+  "similarProducts": [
+    "massimo-dutti-jacket"
+  ],
+  "relatedProducts": [
+    "uniqlo-selvedge-jean",
+    "samba-og"
+  ],
+  "collections": [
+    "capsule-wardrobe",
+    "black-essentials"
+  ],
+  "purchaseLinks": {
+    "Zara India (official)": "https://www.zara.com/in/en/man-jackets-l640.html",
+    "Myntra": "https://www.myntra.com/jackets/zara"
+  },
+  "indianRetailers": [
+    {
+      "name": "Zara India",
+      "url": "https://www.zara.com/in/en/man-jackets-l640.html"
+    },
+    {
+      "name": "Myntra",
+      "url": "https://www.myntra.com/jackets/zara"
+    },
+    {
+      "name": "Zara stores",
+      "url": "https://www.zara.com/in/en/stores/"
+    }
+  ],
+  "discontinued": false,
+  "alternativeUnder3000": "H&M Cotton Harrington Jacket (~₹2,499 at hm.com/in) — slightly less structured",
+  "alternativeUnder10000": "Massimo Dutti at sale price (~₹6,000-₹8,000) — heavier construction",
+  "premiumAlternative": "Baracuta G9 Harrington (~₹60,000 import via baracuta.com) — the original; Milanese construction",
+  "valueScore": 8,
+  "buyRecommendation": "Wait for Sale — Zara has very frequent sales; this can drop to ₹2,500-₹3,000. No reason to pay full price.",
+  "archiveScore": 78,
+  "designScore": 82,
+  "qualityScore": 74,
+  "versatilityScore": 79,
+  "personalFitScore": 80,
+  "categoryRank": 11
+}

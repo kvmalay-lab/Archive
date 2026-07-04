@@ -1,0 +1,43 @@
+{
+  "id": "rolex-datejust-36",
+  "name": "Datejust 36",
+  "brand": "Rolex",
+  "category": "watches",
+  "subcategory": "Dress",
+  "thumbnail": "assets/images/rolex-datejust-36.jpg",
+  "heroImage": "assets/images/rolex-datejust-36.jpg",
+  "price": "₹45,00,000 – ₹65,00,000",
+  "price_usd": "$27,000–35,000",
+  "colours": [
+    "Stainless Steel",
+    "Yellow Gold",
+    "White Gold"
+  ],
+  "materials": [
+    "Oystersteel or gold",
+    "Sapphire crystal",
+    "Cyclops date window",
+    "Oyster bracelet or leather"
+  ],
+  "description": "The original dress watch. Introduced in 1945. Cyclops magnification over the date, 36mm case, proportions that defined formal timekeeping.",
+  "whyThisFitsMyArchive": "The Datejust 36 sits perfectly between the toolish submariner and the jeweled daytona. It works in any context. The date window is both functional and beautiful. The proportions haven't shifted in 80 years because they are geometrically correct.",
+  "confidence": 98,
+  "priority": "Current",
+  "india_availability": "Grey market available",
+  "collections": [
+    "tier-0-signatures",
+    "capsule-wardrobe"
+  ],
+  "purchaseLinks": {
+    "Chrono24 India": "https://www.chrono24.in/rolex/",
+    "Kapoor Watch Co.": "https://www.kapoorwatch.com/watches/rolex/datejust"
+  },
+  "discontinued": false,
+  "valueScore": 9,
+  "archiveScore": 98,
+  "designScore": 99,
+  "qualityScore": 97,
+  "versatilityScore": 96,
+  "personalFitScore": 98,
+  "categoryRank": 2
+}

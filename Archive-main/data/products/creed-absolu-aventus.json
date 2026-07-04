@@ -1,0 +1,38 @@
+{
+  "id": "creed-absolu-aventus",
+  "name": "Absolu Aventus",
+  "brand": "Creed",
+  "category": "fragrance",
+  "subcategory": "Eau de Parfum",
+  "thumbnail": "assets/images/creed-absolu-aventus.jpg",
+  "heroImage": "assets/images/creed-absolu-aventus.jpg",
+  "price": "₹32,000 – ₹42,000",
+  "price_usd": "$310–360",
+  "colours": [
+    "Clear"
+  ],
+  "materials": [
+    "Eau de Parfum",
+    "100ml"
+  ],
+  "description": "The evolution of Aventus. Deeper woods, richer ambroxan, more complex fruit notes. Same DNA, elevated composition. Presented in striking jet-black bottle.",
+  "whyThisFitsMyArchive": "Absolu Aventus is Aventus refined. The additional woody depth makes it more sophisticated for formal contexts. Same reliable projection, enhanced character.",
+  "confidence": 85,
+  "priority": "Current",
+  "india_availability": "Available via luxury retailers",
+  "collections": [
+    "editors-picks"
+  ],
+  "purchaseLinks": {
+    "Creed Boutique": "https://creedboutique.com/products/absolu-aventus",
+    "Creed Fragrance": "https://www.creedfragrance.com/p/absolu-aventus/16281794/"
+  },
+  "discontinued": false,
+  "valueScore": 8,
+  "archiveScore": 88,
+  "designScore": 89,
+  "qualityScore": 93,
+  "versatilityScore": 86,
+  "personalFitScore": 87,
+  "categoryRank": 2
+}

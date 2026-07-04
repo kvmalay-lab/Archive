@@ -1,0 +1,93 @@
+{
+  "id": "massimo-dutti-wool-coat",
+  "name": "Wool Blend Overcoat",
+  "brand": "Massimo Dutti",
+  "category": "clothing",
+  "subcategory": "Outerwear",
+  "thumbnail": "assets/images/massimo-dutti-wool-coat.jpg",
+  "heroImage": "assets/images/massimo-dutti-wool-coat.jpg",
+  "price": "₹18,900",
+  "colours": [
+    "Dark brown",
+    "Black",
+    "Stone"
+  ],
+  "materials": [
+    "Wool blend"
+  ],
+  "description": "A generously-cut wool overcoat with a clean, uncomplicated silhouette — built to layer over everything else I own.",
+  "whyThisFitsMyArchive": "The cut is generous without looking sloppy, which means I can layer heavily underneath and still look put together. I disappear into the coat, which is the point — the focus stays on where I'm going, not on the coat itself.",
+  "whatItReplaces": "Doesn't replace anything currently owned — there's no proper winter coat in the wardrobe yet, which is the actual gap this fills.",
+  "whyIChooseThis": "Over more structured coats: this doesn't require strategic styling to work. Over designer overcoats: same silhouette, a fraction of the price, and one I'll actually wear without worrying about it.",
+  "whatItPairsWithInMyCollection": "Over the wool trousers, Supima tees, the overshirt. Works over cream, black, navy, dark brown — monochrome layering. Never with a belt; the drape is the point.",
+  "layeringCombinations": "Over everything — the wool trousers, the crewneck, the turtleneck, the overshirt. It's built to go over the heaviest layering, not compete with it.",
+  "colourCombinations": "Dark brown is the priority colour — it's warmer and more forgiving than black against the rest of the wardrobe's palette. Black and stone are the alternates.",
+  "bestSeason": "Winter",
+  "bestOccasions": "The coldest months, formal and casual both",
+  "costPerWearReasoning": "₹18,900 is the single biggest number in the wardrobe, and the honest reasoning is that it only pays off if genuinely worn through multiple winters — the reason it's a Dream Piece and not a near-term buy.",
+  "whatMakesItTimeless": "A generous, simple silhouette that hasn't gone out of style in decades. Wool ages visibly and well.",
+  "whatProblemItSolves": "One coat that handles autumn through early spring, formal and casual, instead of three separate coats.",
+  "whatCouldReplaceIt": "Nothing quite matches this silhouette at this price point — it's the reason I chose it.",
+  "similarPiecesIWouldProbablyLike": "Massimo Dutti wool trousers (same long-term thinking).",
+  "confidence": 93,
+  "priority": "Worth exploring",
+  "purchasePriority": "Dream Piece",
+  "worksBestWith": [
+    "massimo-dutti-wool-trousers",
+    "uniqlo-merino-turtleneck",
+    "massimo-dutti-merino-crewneck",
+    "massimo-dutti-overshirt"
+  ],
+  "alternative": "massimo-dutti-jacket",
+  "buyAfter": [
+    "massimo-dutti-wool-trousers",
+    "uniqlo-merino-turtleneck",
+    "massimo-dutti-merino-crewneck"
+  ],
+  "layeringOver": "the turtleneck, the crewneck, the overshirt — everything else in the wardrobe",
+  "seasonMatrix": {
+    "primary": [
+      "Winter"
+    ],
+    "secondary": []
+  },
+  "occasionMatrix": [
+    "Office",
+    "Dinner",
+    "Daily Wear",
+    "Travel"
+  ],
+  "similarProducts": [],
+  "relatedProducts": [
+    "massimo-dutti-oxford"
+  ],
+  "collections": [
+    "quiet-luxury-essentials",
+    "editors-picks"
+  ],
+  "purchaseLinks": {
+    "Massimo Dutti India (official)": "https://www.massimodutti.com/in/men/coats-n3023"
+  },
+  "indianRetailers": [
+    {
+      "name": "Massimo Dutti India",
+      "url": "https://www.massimodutti.com/in/men/coats-n3023"
+    },
+    {
+      "name": "Massimo Dutti stores",
+      "url": "https://www.massimodutti.com/in/stores"
+    }
+  ],
+  "discontinued": false,
+  "alternativeUnder3000": "Not realistic for a proper wool overcoat — skip this tier entirely",
+  "alternativeUnder10000": "Uniqlo Wool Blend Chesterfield Coat (~₹8,990 at uniqlo.com/in) — thinner but same silhouette",
+  "premiumAlternative": "Loro Piana Cashmere Overcoat (~₹4,00,000 import)",
+  "valueScore": 8,
+  "buyRecommendation": "Wait for Sale — the single biggest opportunity in the wardrobe. This drops to ₹9,000-₹12,000 in end-of-season clearance (February-March). Buy then only.",
+  "archiveScore": 90,
+  "designScore": 93,
+  "qualityScore": 88,
+  "versatilityScore": 84,
+  "personalFitScore": 92,
+  "categoryRank": 14
+}

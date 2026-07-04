@@ -1,0 +1,90 @@
+{
+  "id": "massimo-dutti-wool-trousers",
+  "name": "100% Wool Tailored Trousers",
+  "brand": "Massimo Dutti",
+  "category": "clothing",
+  "subcategory": "Trousers",
+  "thumbnail": "assets/images/massimo-dutti-wool-trousers.jpg",
+  "heroImage": "assets/images/massimo-dutti-wool-trousers.jpg",
+  "price": "₹8,990",
+  "colours": [
+    "Black",
+    "Grey",
+    "Navy"
+  ],
+  "materials": [
+    "100% wool",
+    "Flat front"
+  ],
+  "description": "Tailored wool trousers with a clean flat front and a fit built for actual wear, not the runway.",
+  "patina": "The hem on the left leg has a slight fray from a subway grate in 2022. I never had it repaired. They've softened behind the knee, but the crease still holds. They look like mine now.",
+  "whyThisFitsMyArchive": "I've worn these to a formal dinner and to a dive bar the same night. The rise sits right without a belt, which is rare at this price. I stopped looking for alternatives.",
+  "whatItReplaces": "Replaces every pair of 'smart trousers' I bought that looked fine in the shop and wrong on the body — usually because the rise or break was slightly off. These are the first pair where nothing needed adjusting.",
+  "whyIChooseThis": "Over trend-driven tailoring: this proportion has been correct for decades and still is. Over designer versions: same silhouette, and I can actually afford a second pair when this one wears out.",
+  "whatItPairsWithInMyCollection": "Worn with battered Salomon trail runners to break the formality. Under the wool coat when it's cold.",
+  "layeringCombinations": "Not a layering piece by nature, but works under the wool coat in winter without adding bulk at the waist.",
+  "colourCombinations": "Black is the one I actually own and wear constantly. Grey and navy are the realistic next colours if I need a second pair for the same rotation.",
+  "bestSeason": "Autumn through spring — wool holds up in heat but isn't the first choice for peak summer",
+  "bestOccasions": "Anything formal, and deliberately styled down with trail runners for anything that isn't",
+  "costPerWearReasoning": "₹8,990 for trousers worn for three years and counting, multiple times a month. That's already under ₹100 a wear and dropping every time I reach for them again.",
+  "whatMakesItTimeless": "Built on a proportion that works for real bodies, not a fashion trend.",
+  "confidence": 96,
+  "priority": "Current",
+  "purchasePriority": "Essential",
+  "worksBestWith": [
+    "massimo-dutti-oxford",
+    "massimo-dutti-relaxed-shirt",
+    "kozasko-penny-loafer",
+    "jordan-flight-court",
+    "cos-leather-belt",
+    "cartier-santos",
+    "massimo-dutti-wool-coat"
+  ],
+  "alternative": "massimo-dutti-chino-trousers",
+  "buyAfter": [],
+  "seasonMatrix": {
+    "primary": [
+      "Autumn",
+      "Winter"
+    ],
+    "secondary": [
+      "Spring"
+    ]
+  },
+  "occasionMatrix": [
+    "Office",
+    "Dinner",
+    "Daily Wear"
+  ],
+  "collections": [
+    "capsule-wardrobe",
+    "black-essentials",
+    "tier-0-signatures",
+    "editors-picks"
+  ],
+  "purchaseLinks": {
+    "Massimo Dutti India (official)": "https://www.massimodutti.com/in/men/trousers-n3010"
+  },
+  "indianRetailers": [
+    {
+      "name": "Massimo Dutti India",
+      "url": "https://www.massimodutti.com/in/men/trousers-n3010"
+    },
+    {
+      "name": "Massimo Dutti stores",
+      "url": "https://www.massimodutti.com/in/stores"
+    }
+  ],
+  "discontinued": false,
+  "alternativeUnder3000": "Zara Slim Fit Trousers (~₹2,990 at zara.com/in) — lighter fabric, same silhouette",
+  "alternativeUnder10000": "COS Slim Wool Trousers (~₹8,000 import) — cleaner finish",
+  "premiumAlternative": "Canali Wool Flat-Front Trousers (~₹60,000 import) — Italian tailoring",
+  "valueScore": 8,
+  "buyRecommendation": "Wait for Sale — significant savings at end-of-season (30-50% off). Worth the wait at ₹4,500-₹6,000.",
+  "archiveScore": 93,
+  "designScore": 92,
+  "qualityScore": 90,
+  "versatilityScore": 93,
+  "personalFitScore": 96,
+  "categoryRank": 4
+}

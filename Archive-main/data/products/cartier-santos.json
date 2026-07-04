@@ -1,0 +1,66 @@
+{
+  "id": "cartier-santos",
+  "name": "Santos de Cartier Medium Automatic",
+  "brand": "Cartier",
+  "category": "watches",
+  "subcategory": "Dress Sport",
+  "thumbnail": "assets/images/cartier-santos.jpg",
+  "heroImage": "assets/images/cartier-santos.jpg",
+  "price": "₹6,50,000 – ₹8,50,000",
+  "price_usd": "$19,000–22,000",
+  "colours": [
+    "Steel",
+    "Gold"
+  ],
+  "materials": [
+    "Stainless steel",
+    "Sapphire crystal",
+    "Leather strap"
+  ],
+  "description": "The watch that defined the sport watch category in 1904. Exposed screws, architectural geometry, zero compromise on proportion.",
+  "patina": "The bracelet has light scratches from daily wear. The crown shows patina. The watch tells time and age simultaneously.",
+  "whyThisFitsMyArchive": "It sits at the intersection of formality and utility. Works in the boardroom and on the wrist while hiking. The mechanics are exposed and honest.",
+  "whyIChooseThis": "Over Omega Seamaster: The Santos is a dress watch that happens to keep perfect time. The Omega is a sports watch dressed up.",
+  "whatItPairsWithInMyCollection": "Worn daily. The simplicity of the dial means it works with every outfit without competing for attention.",
+  "whatMakesItTimeless": "Cartier designed it 120 years ago. The proportions remain unchanged because they are correct.",
+  "confidence": 100,
+  "priority": "Current",
+  "india_availability": "Officially available",
+  "indian_retailers": [
+    "Cartier India (boutique)",
+    "Authorized dealers"
+  ],
+  "import_required": false,
+  "collections": [
+    "tier-0-signatures",
+    "capsule-wardrobe",
+    "quiet-luxury-essentials",
+    "editors-picks"
+  ],
+  "purchaseLinks": {
+    "Cartier India (official)": "https://www.cartier.com/en-in/watches/collections/santos-de-cartier/",
+    "Kapoor Watch Co.": "https://www.kapoorwatch.com/watches/cartier/santos"
+  },
+  "indianRetailers": [
+    {
+      "name": "Cartier India boutiques (Delhi, Mumbai, Bangalore)",
+      "url": "https://www.cartier.com/en-in/stores/"
+    },
+    {
+      "name": "Kapoor Watch Co. (authorized)",
+      "url": "https://www.kapoorwatch.com/watches/cartier/santos"
+    }
+  ],
+  "discontinued": false,
+  "alternativeUnder3000": "Not applicable",
+  "alternativeUnder10000": "Not applicable",
+  "premiumAlternative": "Cartier Santos Skeleton (~₹15,00,000+) — same case, flying tourbillon movement",
+  "valueScore": 9,
+  "buyRecommendation": "Buy Now (authorized dealer only) — no discounts exist at authorized retailers. The steel Santos de Cartier Medium Automatic is the entry point; confirm model ref. WSSA0009 for the current steel/bracelet version. Grey market pricing available via Chrono24 India.",
+  "archiveScore": 98,
+  "designScore": 98,
+  "qualityScore": 96,
+  "versatilityScore": 95,
+  "personalFitScore": 99,
+  "categoryRank": 1
+}

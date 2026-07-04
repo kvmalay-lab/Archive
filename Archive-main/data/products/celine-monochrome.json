@@ -1,0 +1,52 @@
+{
+  "id": "celine-monochrome",
+  "name": "Monochrome EDP",
+  "brand": "Celine",
+  "category": "fragrance",
+  "subcategory": "Amber woody",
+  "thumbnail": "assets/images/celine-monochrome.jpg",
+  "heroImage": "assets/images/celine-monochrome.jpg",
+  "price": "₹23,500 – ₹27,000 (import)",
+  "colours": [],
+  "materials": [
+    "Amber",
+    "Oud",
+    "Violet leaf",
+    "Cedar"
+  ],
+  "description": "Monochrome fragrance for monochrome dressing. Subtle, expensive, and deliberately understated.",
+  "whyThisFitsMyArchive": "Monochrome smells like the brand's design language: restrained, proportional, precise. The oud is refined, not barnyard. Black bottle with white label appeals to my minimalism.",
+  "whyIChooseThis": "Over Creed Aventus: Different direction. Over other luxury fragrances: This is more refined. Over mainstream woody fragrances: This refuses to perform.",
+  "whatItPairsWithInMyCollection": "Black tailored pieces. White minimalist shirts. Cream knitwear. This needs monochrome context.",
+  "whatMakesItTimeless": "Oud and cedar are permanent. Refined composition doesn't trend.",
+  "whatProblemItSolves": "Finding oud fragrance that's refined instead of aggressive.",
+  "whatCouldReplaceIt": "Creed Aventus for different character. Other Celine fragrances for variety. But the oud profile is specific.",
+  "similarPiecesIWouldProbablyLike": "Cartier Santos (same design language). Massimo Dutti trousers (same proportional minimalism).",
+  "confidence": 86,
+  "priority": "Worth exploring",
+  "similarProducts": [
+    "creed-aventus"
+  ],
+  "relatedProducts": [
+    "louis-vuitton-imagination"
+  ],
+  "collections": [],
+  "purchaseLinks": {
+    "Celine International": "https://www.celine.com/en-int/celine-haute-parfumerie/fragrances/",
+    "FARFETCH India": "https://www.farfetch.com/in"
+  },
+  "indianRetailers": [],
+  "discontinued": false,
+  "alternativeUnder3000": "Not realistic",
+  "alternativeUnder10000": "Not a precise dupe; consider Jo Malone Wood Sage & Sea Salt (~₹9,000 on Nykaa)",
+  "premiumAlternative": "Celine Oud Absolute (~₹35,000+ import) — same house, deeper register",
+  "valueScore": 7,
+  "buyRecommendation": "Import only — Celine Haute Parfumerie is not officially sold in India. Order via Celine's international site or FARFETCH India. Add import duty (~₹4,000-₹7,000 on top of listed price).",
+  "importNote": "No Celine boutiques in India stock the Haute Parfumerie line. Must import.",
+  "archiveScore": 80,
+  "designScore": 90,
+  "qualityScore": 89,
+  "versatilityScore": 68,
+  "personalFitScore": 81,
+  "categoryRank": 5
+}

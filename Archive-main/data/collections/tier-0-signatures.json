@@ -1,0 +1,31 @@
+{
+  "id": "tier-0-signatures",
+  "name": "Tier 0: Personal Signatures",
+  "description": "The products that define my personal style. These pieces work across seasons, contexts, and outfit combinations. They are the foundation of the archive.",
+  "introduction": "These are the objects I return to repeatedly. Not because they are trendy, but because they solve problems so completely that I've stopped looking for alternatives. They work in formal settings and casual moments without apology.",
+  "philosophy": "Proportional correctness. Mechanical honesty. Timelessness through restraint.",
+  "curatorNotes": "These are the non-negotiable pieces. If you could only own five things in each category, these are what you'd choose.",
+  "heroImage": "assets/images/collections/tier-0-hero.jpg",
+  "productIds": [
+    "creed-aventus",
+    "samba-og",
+    "cartier-santos",
+    "massimo-dutti-wool-trousers",
+    "le-labo-santal"
+  ],
+  "colorPalette": [
+    "#000000",
+    "#ffffff",
+    "#e8e4dc",
+    "#c8c4bc"
+  ],
+  "materials": [
+    "Italian leather",
+    "100% wool",
+    "Stainless steel",
+    "Eau de Parfum"
+  ],
+  "relatedCollections": [
+    "shoes-essentials"
+  ]
+}

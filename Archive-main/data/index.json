@@ -1,0 +1,52 @@
+{
+  "products": [
+    "cartier-santos.json",
+    "celine-monochrome.json",
+    "contax-t2-titanium.json",
+    "cos-leather-belt.json",
+    "creed-absolu-aventus.json",
+    "creed-aventus.json",
+    "hermes-terre-hermes-eau-givree.json",
+    "jaeger-lecoultre-reverso.json",
+    "jordan-flight-court.json",
+    "kozasko-penny-loafer.json",
+    "le-labo-santal.json",
+    "louis-vuitton-imagination.json",
+    "massimo-dutti-chino-trousers.json",
+    "massimo-dutti-half-zip.json",
+    "massimo-dutti-jacket.json",
+    "massimo-dutti-linen-shirt.json",
+    "massimo-dutti-merino-crewneck.json",
+    "massimo-dutti-oxford.json",
+    "massimo-dutti-relaxed-shirt.json",
+    "massimo-dutti-overshirt.json",
+    "massimo-dutti-wool-coat.json",
+    "massimo-dutti-wool-trousers.json",
+    "nike-sabrina-3.json",
+    "omega-seamaster.json",
+    "parfums-de-marly-althar.json",
+    "ray-ban-wayfarer.json",
+    "rolex-datejust-36.json",
+    "samba-og.json",
+    "tudor-black-bay-36.json",
+    "uniqlo-merino-turtleneck.json",
+    "uniqlo-selvedge-jean.json",
+    "uniqlo-supima-tee.json",
+    "zara-harrington-jacket.json"
+  ],
+  "collections": [
+    "black-essentials.json",
+    "capsule-wardrobe.json",
+    "editors-picks.json",
+    "quiet-luxury-essentials.json",
+    "shoes-essentials.json",
+    "tier-0-signatures.json"
+  ],
+  "articles": [
+    "building-capsule.json",
+    "design-philosophy.json",
+    "quiet-luxury-explained.json",
+    "why-black.json",
+    "why-material-matters.json"
+  ]
+}

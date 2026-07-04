@@ -1,0 +1,36 @@
+{
+  "id": "parfums-de-marly-althar",
+  "name": "Althaïr",
+  "brand": "Parfums de Marly",
+  "category": "fragrance",
+  "subcategory": "Eau de Parfum",
+  "thumbnail": "assets/images/parfums-de-marly-althar.jpg",
+  "heroImage": "assets/images/parfums-de-marly-althar.jpg",
+  "price": "₹16,000 – ₹22,000",
+  "price_usd": "$165–220",
+  "colours": [
+    "Clear"
+  ],
+  "materials": [
+    "Eau de Parfum",
+    "125ml"
+  ],
+  "description": "Refined vanilla fragrance. Creamy, sophisticated vanilla without sugariness. Amber and sandalwood base creates lasting depth. Elegant restraint.",
+  "whyThisFitsMyArchive": "Althaïr proves vanilla doesn't require excessive sweetness to be compelling. The composition emphasizes refinement—vanilla as a sophisticated base note, not a confectionery statement.",
+  "confidence": 84,
+  "priority": "Current",
+  "india_availability": "Available via international retailers",
+  "collections": [],
+  "purchaseLinks": {
+    "SSENSE": "https://www.ssense.com/",
+    "FragranceBuy": "https://www.fragrancebuy.com/"
+  },
+  "discontinued": false,
+  "valueScore": 8,
+  "archiveScore": 82,
+  "designScore": 85,
+  "qualityScore": 86,
+  "versatilityScore": 80,
+  "personalFitScore": 82,
+  "categoryRank": 5
+}

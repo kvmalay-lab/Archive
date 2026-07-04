@@ -1,0 +1,102 @@
+{
+  "id": "uniqlo-supima-tee",
+  "name": "Supima Cotton Crew Tee",
+  "brand": "Uniqlo",
+  "category": "clothing",
+  "subcategory": "Foundation tee",
+  "thumbnail": "assets/images/uniqlo-supima-tee.jpg",
+  "heroImage": "assets/images/uniqlo-supima-tee.jpg",
+  "additionalImages": [],
+  "price": "₹1,490",
+  "colours": [
+    "Black",
+    "White",
+    "Navy",
+    "Charcoal",
+    "Olive"
+  ],
+  "materials": [
+    "100% Supima cotton, 200gsm"
+  ],
+  "description": "Heavyweight Supima cotton crew tee — the foundation tier of this entire archive.",
+  "whyThisFitsMyArchive": "The weight is right—200gsm means it drapes, it's not transparent, it will last. At this price, I can own multiple without guilt. The construction is precise. I never question whether this tee will work; it always does. This is the foundation I build everything else around.",
+  "whatItReplaces": "Replaced three different 'premium' tees I'd bought and stopped wearing because they pilled or went sheer within a year. I stopped buying tees above ₹1,500 the day I realised this one outperforms all of them.",
+  "whyIChooseThis": "Over higher-priced basics: This fabric quality doesn't require luxury pricing. Over thinner tees: The weight means better drape and longer lifespan. Over designer basics: They're more expensive and don't perform better. This is the smart choice.",
+  "whatItPairsWithInMyCollection": "Everything. Under the Massimo Dutti trousers, overshirt, knit, jacket, or coat. Solo with cream Uniqlo selvedge. The universality is the point—this tee is the true foundation.",
+  "layeringCombinations": "Solo in warm weather. Under the overshirt or the poplin shirt as a base layer. Under the merino crewneck or half-zip once it's cool enough to need both.",
+  "colourCombinations": "Black and white are the two I actually reach for — they go under literally everything else I own. Charcoal and navy are the backups for laundry day.",
+  "bestSeason": "Year-round",
+  "bestOccasions": "Every day — the base layer under almost every outfit I own",
+  "costPerWearReasoning": "₹990, worn at least twice a week year-round. At 100+ wears a year and a two-year lifespan before it's relegated to loungewear, that's under ₹5 a wear. Nothing else in the wardrobe gets close.",
+  "whatMakesItTimeless": "The construction is plain. No special design elements to date. Supima fiber improves with age. After 100 wears, it'll be softer and still holding shape. The weight is permanent—it won't thin out. This is genuinely timeless.",
+  "whatProblemItSolves": "Finding basics I trust completely. I can own black in multiple so I'm never running low. The weight means it works for every season and every context. I never have to think about whether I have a clean tee—I always do.",
+  "whatCouldReplaceIt": "Nothing, really. Uniqlo merino tees for specific seasons, but Supima is the year-round default.",
+  "similarPiecesIWouldProbablyLike": "Uniqlo selvedge jeans (same value philosophy). Massimo Dutti trousers (same foundation thinking). Common Projects Achilles (same investment logic). Cartier Santos (same 'buy once' approach).",
+  "confidence": 96,
+  "priority": "Current",
+  "purchasePriority": "Essential",
+  "worksBestWith": [
+    "uniqlo-selvedge-jean",
+    "massimo-dutti-oxford",
+    "massimo-dutti-overshirt",
+    "samba-og",
+    "massimo-dutti-wool-trousers",
+    "massimo-dutti-jacket",
+    "cartier-santos"
+  ],
+  "alternative": "uniqlo-merino-turtleneck",
+  "buyAfter": [],
+  "layeringUnder": "the overshirt, the bomber jacket, or the wool coat",
+  "seasonMatrix": {
+    "primary": [
+      "Spring",
+      "Summer"
+    ],
+    "secondary": [
+      "Autumn",
+      "Winter"
+    ]
+  },
+  "occasionMatrix": [
+    "Daily Wear",
+    "University",
+    "Weekend",
+    "Travel",
+    "Airport"
+  ],
+  "similarProducts": [],
+  "relatedProducts": [
+    "uniqlo-merino-turtleneck",
+    "uniqlo-selvedge-jean"
+  ],
+  "collections": [
+    "capsule-wardrobe",
+    "black-essentials",
+    "editors-picks"
+  ],
+  "purchaseLinks": {
+    "Uniqlo India (official)": "https://www.uniqlo.com/in/en/products/E455365-000/00"
+  },
+  "indianRetailers": [
+    {
+      "name": "Uniqlo India",
+      "url": "https://www.uniqlo.com/in/en/products/E455365-000/00"
+    },
+    {
+      "name": "Uniqlo stores",
+      "url": "https://www.uniqlo.com/in/en/stores/"
+    }
+  ],
+  "discontinued": false,
+  "alternativeUnder3000": "H&M Jersey T-shirt (~₹999 at hm.com/in) or Rare Rabbit Basic Tee (~₹1,499 on Myntra)",
+  "alternativeUnder10000": "COS Heavy Jersey T-shirt (~₹4,000 import via cos.com); outperforms most mid-range basics",
+  "premiumAlternative": "Sunspel Classic Cotton T-shirt (~₹8,000-₹12,000 import)",
+  "valueScore": 9,
+  "buyRecommendation": "Buy Now — consistent stock year-round, no seasonal sales. Multiple colours in one order = free shipping above ₹2,999.",
+  "archiveScore": 95,
+  "designScore": 88,
+  "qualityScore": 90,
+  "versatilityScore": 100,
+  "personalFitScore": 98,
+  "categoryRank": 1
+}

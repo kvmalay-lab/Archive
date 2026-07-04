@@ -1,0 +1,37 @@
+{
+  "id": "hermes-terre-hermes-eau-givree",
+  "name": "Terre d'Hermès Eau Givrée",
+  "brand": "Hermès",
+  "category": "fragrance",
+  "subcategory": "Eau de Parfum",
+  "thumbnail": "assets/images/hermes-terre-hermes-eau-givree.jpg",
+  "heroImage": "assets/images/hermes-terre-hermes-eau-givree.jpg",
+  "price": "₹16,500 – ₹22,000",
+  "price_usd": "$180–240",
+  "colours": [
+    "Clear"
+  ],
+  "materials": [
+    "Eau de Parfum",
+    "100ml",
+    "Frosted glass with brushed aluminum"
+  ],
+  "description": "Frosted interpretation of Terre d'Hermès. Citron and juniper with Timut pepper create crystalline freshness. The bottle evokes frost covering the earth.",
+  "whyThisFitsMyArchive": "Terre d'Hermès Eau Givrée is minimalist fragrance executed with House discipline. The frosted bottle is philosophical—frost that transforms without obscuring. Smells like clarity.",
+  "confidence": 86,
+  "priority": "Current",
+  "india_availability": "Available via retailers",
+  "collections": [],
+  "purchaseLinks": {
+    "Hermès official": "https://www.hermes.com/us/en/product/terre-d-hermes-eau-givree-eau-de-parfum-V107522V0/",
+    "Sephora": "https://www.sephora.com/"
+  },
+  "discontinued": false,
+  "valueScore": 8,
+  "archiveScore": 84,
+  "designScore": 92,
+  "qualityScore": 90,
+  "versatilityScore": 85,
+  "personalFitScore": 84,
+  "categoryRank": 4
+}
